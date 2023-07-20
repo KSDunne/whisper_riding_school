@@ -112,9 +112,9 @@ h2 {
 }
 
 /* home page information about whisper farm*/
-#whisper-farm {
+/*#whisper-farm {
     height: 300px;
-}
+}*/
 
 #center-about {
     padding-top: 30px;
@@ -146,4 +146,33 @@ hr {
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
+}
+
+/* what we offer*/
+#lessons-home {
+    background-color: #359672;
+    padding-top: 30px;
+    width: 70%;
+    margin: 0 auto;
+}
+
+#world-home {
+    background-color: #CC864A;
+    padding-top: 30px;
+    width: 70%;
+    margin: 0 auto;
+}
+
+#gear-home {
+    background-color: #38989c;
+    padding-top: 30px;
+    width: 70%;
+    margin: 0 auto;
+}
+
+#news-home {
+    background-color: #c9ac3b;
+    padding-top: 30px;
+    width: 70%;
+    margin: 0 auto;
 }
