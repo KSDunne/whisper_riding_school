@@ -134,3 +134,16 @@ hr {
     clear: both;
     margin-bottom: 50px;
 }
+
+#center-benefits {
+    padding-top: 30px;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.center-benefits-heading {
+    width: 100%;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
