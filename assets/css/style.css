@@ -120,5 +120,17 @@ h2 {
     padding-top: 30px;
     width: 70%;
     margin: 0 auto;
-    background-color: green;
+}
+
+hr {
+    border-top: 1px solid #3a3a3a;
+    width: 100%;
+    margin: 5px 0;
+}
+
+.center-about-heading {
+    width: 100%;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
 }
