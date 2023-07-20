@@ -25,6 +25,7 @@ h2 {
 #logo {
     float: left;
     font-size: 280%;
+    margin-left: 30px;
 }
 
 /* navigation links*/
@@ -108,4 +109,16 @@ h2 {
     right: 150px;
 
     position: absolute;
+}
+
+/* home page information about whisper farm*/
+#whisper-farm {
+    height: 300px;
+}
+
+#center-about {
+    padding-top: 30px;
+    width: 70%;
+    margin: 0 auto;
+    background-color: green;
 }
