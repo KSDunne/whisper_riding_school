@@ -2,10 +2,6 @@
 
 (Developer: Katie Dunne)
 
-![Mockup image](image)
-
-[Live webpage](live link))
-
 This is a responsive website built using only HTML and CSS for a fictitious business. The business I chose to build a website for is a horse riding school. This website provides customers with information about lessons and provides education on horse riding disaplines from around the world. This website encourages customers to contact us to book riding lessons and encourages the customer to sign up for a news letter.
 
 ## Table of Contents
