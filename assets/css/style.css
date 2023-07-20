@@ -73,6 +73,7 @@ h2 {
     height: 600px;
     width: 100%;
     background: url(../images/horse_rider_hero.jpg) no-repeat center center;
+    background-size: cover;
 
     /* animating zoom effect on the hero image when loading page */
     animation-name: hero-zoom;
@@ -152,27 +153,40 @@ hr {
 #lessons-home {
     background-color: #359672;
     padding-top: 30px;
-    width: 70%;
+    width: 100%;
     margin: 0 auto;
 }
 
 #world-home {
     background-color: #CC864A;
     padding-top: 30px;
-    width: 70%;
+    width: 100%;
     margin: 0 auto;
 }
 
 #gear-home {
     background-color: #38989c;
     padding-top: 30px;
-    width: 70%;
+    width: 100%;
     margin: 0 auto;
 }
 
 #news-home {
     background-color: #c9ac3b;
     padding-top: 30px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#offer {
+    padding-top: 30px;
     width: 70%;
     margin: 0 auto;
+}
+
+.offer-heading {
+    width: 100%;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
 }
