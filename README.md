@@ -1,39 +1,29 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Whisper Riding School
 
-Welcome,
+(Developer: Katie Dunne)
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+![Mockup image](image)
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+[Live webpage](live link))
 
-## Codeanywhere Reminders
+This is a responsive website built using only HTML and CSS for a fictitious business. The business I chose to build a website for is a horse riding school. This website provides customers with information about lessons and provides education on horse riding disaplines from around the world. This website encourages customers to contact us to book riding lessons and encourages the customer to sign up for a news letter.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+## Table of Contents
 
-`python3 -m http.server`
+## Project Goals
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+The goals of this website are as follows:
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+### Business Goals
 
-`http_server`
+- Increase awareness of the services that this business provides
+- Educate the customer with snippets of horse riding disaplines from around the world
+- Educate the customer on safe and functional riding wear
+- Create an easy path for customers to find our contact details and to find our physical site in Carlow
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### User Goals
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+- Find a service that offers horse riding lessons in Carlow, Ireland
+- Learn about a range of horse riding disaplines from around the world
+- Familiarise themselves with safe and functional riding gear
+- Contact the the farm for to arrange a time and date for their riding lessons and easily find the physical site using a map
