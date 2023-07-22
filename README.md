@@ -63,3 +63,19 @@ The goals of this website are as follows:
 - As a frequent user, I want to broden my knowlegde of horse riding disaplines from around the world
 - As a frequent user, I want to sign up for a news letter
 - As a frequent user, I want to check to see if there is any new updates on the website
+
+## Design
+
+### Design Choices
+
+I was very loosely inspired by the colours, layout, services and features of the [Carrickmines Equestrian Center] (https://www.carrickminesequestrian.ie/) website.This arised from my research of other horse riding school websites. I wanted to find one with intuitive layout and navigation that fit my desired content and that was also responsive.
+
+The hero image for Whisper Riding School was chosen to convey the exact main service of the business. It is both eye-catching and informational.
+
+### Colours
+
+Since this business offers outdoor services such as horse riding lessons I chose earthy colours. Colours were adapted from palettes generated using [Venngage's Accessible color palette generator](https://venngage.com/tools/accessible-color-palette-generator).
+
+Primary Colours - White / Green
+
+Secondary Colours - Orange / Mustard / Blue
