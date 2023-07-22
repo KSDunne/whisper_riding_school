@@ -24,7 +24,7 @@ The goals of this website are as follows:
 - Familiarise themselves with safe and functional riding gear
 - Find contact information for the farm so they can arrange a time and date for their riding lessons and easily find the physical site using a map
 
-## User Experience
+## User Experience (UX)
 
 ### Target Audience
 
@@ -44,4 +44,22 @@ The goals of this website are as follows:
 - An accessible website for all users
 - A website that loads quickly on all devices and connections
 
-### User Stories
+### User stories
+
+#### First time visitor goals
+
+- As a first time visitor, I want to understand purpose of this website and to easily navigate through it
+- As a first time visitor, I want to see the benefits of horse riding, so I can tell whether I would like to do it or not
+- As a first time visitor, I want to be able to see if the physical site is near where I live and find out how to contact them, e.g. a map, social links and contact information
+
+#### Returning visitor goals
+
+- As a returning visitor, I want to contact Whisper Riding School to book a lesson
+- As a returning visitor, I want to be able to learn about safe riding gear that I should bring with me to my lesson
+- As a returning visitor, I want to check the map again, however this time it is to plan my route for the day I will arrive at my lesson
+
+#### Frequent user goals
+
+- As a frequent user, I want to broden my knowlegde of horse riding disaplines from around the world
+- As a frequent user, I want to sign up for a news letter
+- As a frequent user, I want to check to see if there is any new updates on the website
