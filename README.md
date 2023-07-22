@@ -79,3 +79,10 @@ Since this business offers outdoor services such as horse riding lessons I chose
 Primary Colours - White / Green
 
 Secondary Colours - Orange / Mustard / Blue
+
+- #c9ac3b, mustard
+- #88a542, a green
+- #5b9c69, a green
+- #359672, a green
+- #38989c, bluish
+- #CC864A, orange
