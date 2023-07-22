@@ -39,7 +39,7 @@ The goals of this website are as follows:
 - An intuitive navigation system wheather using a mobile, tablet or monitor
 - Ability to quickly find relevant information on the business and its services
 - Easy ways to contact the business and find our physical site using a map
-- An ability to learn about horse riding disaplines from abound the world and about safe riding gear
+- An ability to learn about horse riding disaplines from around the world and about safe riding gear
 - Access to a newsletter sign up form
 - An accessible website for all users
 - A website that loads quickly on all devices and connections
@@ -61,24 +61,24 @@ The goals of this website are as follows:
 #### 3. Frequent user goals
 
 - As a frequent user, I want to broden my knowlegde of horse riding disaplines from around the world
-- As a frequent user, I want to sign up for a news letter
+- As a frequent user, I want to sign up for a newsletter
 - As a frequent user, I want to check to see if there is any new updates on the website
 
 ## Design
 
 ### Design Choices
 
-I was very loosely inspired by the colours, layout, services and features of the [Carrickmines Equestrian Center] (https://www.carrickminesequestrian.ie/) website.This arised from my research of other horse riding school websites. I wanted to find one with intuitive layout and navigation that fit my desired content and that was also responsive.
+I was very loosely inspired by the colors, layout, services and features of the [Carrickmines Equestrian Center] (https://www.carrickminesequestrian.ie/) website.This arised from my research of other horse riding school websites. I wanted to find one with intuitive layout and navigation that fit my desired content and that was also responsive.
 
 The hero image for Whisper Riding School was chosen to convey the exact main service of the business. It is both eye-catching and informational.
 
-### Colours
+### Color
 
-Since this business offers outdoor services such as horse riding lessons I chose earthy colours. Colours were adapted from palettes generated using [Venngage's Accessible color palette generator](https://venngage.com/tools/accessible-color-palette-generator).
+Since this business offers outdoor services such as horse riding lessons I chose earthy colours. Colors were adapted from palettes generated using [Venngage's Accessible color palette generator](https://venngage.com/tools/accessible-color-palette-generator).
 
-Primary Colours - White / Green
+Primary Colors - White / Green
 
-Secondary Colours - Orange / Mustard / Blue
+Secondary Colors - Orange / Mustard / Blue
 
 - #c9ac3b, mustard
 - #88a542, a green
