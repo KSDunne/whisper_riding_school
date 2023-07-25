@@ -2,7 +2,7 @@
 
 (Developer: Katie Dunne)
 
-This is a responsive website built using only HTML and CSS for a fictitious business. The business I chose to build a website for is a horse riding school. This website provides 'Whisper Riding School' customers with information about lessons and provides education on horse riding disaplines from around the world. This website encourages customers to contact us to book riding lessons and encourages the customer to sign up for a newsletter.
+This is a responsive website built using only HTML and CSS for a fictitious business. The business I chose to build a website for is a horse riding school. This website is aimed at people that are interested in trying horse riding as a hobby, in the Leinster area of Ireland. The owner of 'Whisper Riding School' seeks to provide value to these people via horse riding education and in turn convert these interested people into customers of 'Whisper Riding School'. This website provides the user with information about the benefits of horse riding, information about lessons, provides education on horse riding disaplines from around the world and provides information on safe and functional riding gear. This website encourages customers to contact us to book riding lessons and encourages the customer to sign up for a newsletter.
 
 ## Table of Contents
 
@@ -12,6 +12,7 @@ The goals of this website are as follows:
 
 ### Business Goals
 
+- Provide the user with information about the benefits of horse riding
 - Increase awareness of the services that Whisper Riding School provides
 - Educate the customer with snippets of horse riding disaplines from around the world
 - Educate the customer on safe and functional riding wear
@@ -19,7 +20,8 @@ The goals of this website are as follows:
 
 ### User Goals
 
-- Find a service that offers horse riding lessons in Carlow, Ireland
+- Learn about the benefits of horse riding as a hobby
+- Once the user knows about the benefits of horse riding then would then like to find a service that offers horse riding lessons in the Leinster region of Ireland
 - Learn about a range of horse riding disaplines from around the world
 - Familiarise themselves with safe and functional riding gear
 - Find contact information for the farm so they can arrange a time and date for their riding lessons and easily find the physical site using a map
