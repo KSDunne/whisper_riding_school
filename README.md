@@ -15,7 +15,7 @@ The goals of this website are as follows:
 - Provide the user with information about the benefits of horse riding
 - Increase awareness of the services that Whisper Riding School provides
 - Educate the customer with snippets of horse riding disaplines from around the world
-- Educate the customer on safe and functional riding wear
+- Educate the customer on safe and functional riding gear
 - Create an easy path for customers to find our contact details and to find our physical site in Carlow
 
 ### User Goals
