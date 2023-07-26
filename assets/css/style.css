@@ -7,6 +7,9 @@
 }
 
 body {
+    min-height: 100 vh;
+    display: flex;
+    flex-direction: column;
     font-family: Lato, sans-serif;
     font-weight: 300;
     color: #3a3a3a;
@@ -57,6 +60,12 @@ h2 {
 
 .active {
     border-bottom: 1px solid #3a3a3a;
+}
+
+/* main content*/
+main {
+    /* the following makes the main element take up any surplus space to push footer down*/
+    flex: 1 0 auto;
 }
 
 /* hero image and cover text*/
