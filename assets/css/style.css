@@ -60,10 +60,6 @@ h2 {
     color: inherit;
 }
 
-#menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
-}
-
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
@@ -283,5 +279,11 @@ footer {
         line-height: 75px;
         margin: 0 0.5rem;
     }
+}
 
+/* Large devices (laptops and desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+    #menu a:hover {
+        border-bottom: 1px solid #3a3a3a;
+    }
 }
