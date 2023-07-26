@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-decoration: none;
 }
 
 body {
@@ -36,8 +37,6 @@ h2 {
     letter-spacing: 4px;
     color: #252525;
 }
-
-/* navigation links*/
 
 #menu {
     font-size: 110%;
@@ -278,4 +277,11 @@ footer {
     .nav-toggle-label {
         display: none;
     }
+
+    #logo {
+        font-size: 200%;
+        line-height: 75px;
+        margin: 0 0.5rem;
+    }
+
 }
