@@ -96,6 +96,18 @@ The fixed background image is of a farm landscape. This is a nice visual that is
 
 States the four main services that Whisper Riding School offer through the website and the business. These are; 1. 'lessons', 2. 'education' of diverse horse riding disaplines, 3. 'advice on gear' and 4. 'boarding and livery'.
 
+### Around the World
+
+'Around the World' is the second page of this website and it offers the user 4 educational snippets. The user can learn about riding disaplines from around the world Photos of dressage, polo, horse ball and western riding can be seen here with short explainations of each.
+
+### Contact Us
+
+A form with 4 input boxes and a submit button. Two of the fields are required. The required fields are 'Name' and 'Phone number'. Optional fields are email and a message. There is placeholder text in each field of the form.
+
+### Map
+
+Google maps feature
+
 ### Footer
 
 Which displays the business adress and social media links.
