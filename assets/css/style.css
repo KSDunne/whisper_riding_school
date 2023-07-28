@@ -44,6 +44,10 @@ h2 {
     list-style-type: none;
 }
 
+#logo {
+    font-size: 170%;
+}
+
 #menu,
 #logo {
     line-height: 75px;

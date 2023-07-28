@@ -88,3 +88,13 @@ Secondary Colors - Orange / Mustard / Blue
 - #359672, a green
 - #38989c, bluish
 - #CC864A, orange
+
+## Wireframes
+
+### Index Page Wireframes
+
+  ![iPhone SE](docs/wireframes/index_iphonese.png)
+
+  ![Tablet](docs/wireframes/index_tablet.png)
+
+  ![Monitor](docs/wireframes/index_monitor.png)
