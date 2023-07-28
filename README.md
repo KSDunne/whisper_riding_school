@@ -74,7 +74,45 @@ The goals of this website are as follows:
 
 ## Features
 
+### Logo and Navigation bar
+
+Clickable logo and a responsive navigation bar are in place. Concentrating on 'mobile first' design, the navigation bar incorporates a clickable burger icon with a drop down menu on mobile. When moving to tablet and monitor size the burger disappears and a traditional navigation bar appears with options to navigate to pages; 'Home', 'Around the World' or 'Contact Us'.
+
+### Hero Image
+
+The hero image on the index page was chosen to convey the exact purpose of Whisper Riding School. It is a colourful image of a girl jumping a fence on horseback in a sand arena. This is a typical activity you would find at a riding school in Ireland.
+
+### About
+
+Gives a romantic history of the farm.
+
+### Benefits of Horse Riding
+
+### A fixed background image
+
+The fixed background image is of a farm landscape. This is a nice visual that is fun to scroll to break up the large about of text that is on the index page.
+
+### What We Offer?
+
+States the four main services that Whisper Riding School offer through the website and the business. These are; 1. 'lessons', 2. 'education' of diverse horse riding disaplines, 3. 'advice on gear' and 4. 'boarding and livery'.
+
+### Footer
+
+Which displays the business adress and social media links.
+
 ## Future features
+
+### Live weather forecast
+
+This is a feature on some similar websites that I saw when doing research for this project.
+
+### A page dedicated to gear
+
+This is another popular page on horse riding websites.
+
+### A masonry photo gallery
+
+### Copywrite in the footer
 
 ## Design
 
