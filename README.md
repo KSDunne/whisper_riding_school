@@ -72,6 +72,10 @@ The goals of this website are as follows:
 - As a frequent user, I want to sign up for a newsletter
 - As a frequent user, I want to check to see if there is any new updates on the website
 
+## Features
+
+## Future features
+
 ## Design
 
 ### Design Choices
