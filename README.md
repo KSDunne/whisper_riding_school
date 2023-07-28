@@ -136,6 +136,8 @@ The hero image for Whisper Riding School was chosen to convey the exact main ser
 
 ### Typography
 
+Google Fonts were used to import Inter and Quicksand fonts into styles.css. A generic sans-serif font was chosen as a back-up font. These were chosen as they are easy to read and are common to modern website design.
+
 ### Color
 
 Since this business offers outdoor services such as horse riding lessons I chose earthy colours. Colors were adapted from palettes generated using [Venngage's Accessible color palette generator](https://venngage.com/tools/accessible-color-palette-generator).
