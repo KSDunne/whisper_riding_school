@@ -162,3 +162,19 @@ Secondary Colors - Orange / Mustard / Blue
   ![Tablet](docs/wireframes/index_tablet.png)
 
   ![Monitor](docs/wireframes/index_monitor.png)
+
+## Technology
+
+## Testing
+
+### Code validation
+
+### Test cases / user story based
+
+### Fixed bugs
+
+### Supported screens and browsers
+
+## Deployment
+
+## Credits
