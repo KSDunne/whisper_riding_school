@@ -235,23 +235,34 @@ hr {
 
 /* footer */
 
-footer {
-    height: 150px;
+.all-footer-divs {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.footer-headings {
+    text-align: center;
+    text-decoration: underline;
 }
 
 .socials {
     text-align: center;
-}
-
-.socials>li {
-    display: inline;
+    padding: 1em;
+    display: flex;
+    justify-content: space-evenly;
+    letter-spacing: 18px;
+    list-style-type: none;
 }
 
 .socials i {
-    font-size: 160%;
-    margin: 1%;
-    padding: 5%;
+    font-size: 170%;
     color: #3a3a3a;
+}
+
+.footer-divs {
+    padding: 10px 0;
 }
 
 /* media query: tablets and larger (768px and up) */
