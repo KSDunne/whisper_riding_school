@@ -4,7 +4,9 @@
 
 ## AmIResponsive Image Here
 
-## Link to live website
+## Live website
+
+Link to live website: [Whisper Riding School](https://ksdunne.github.io/whisper_riding_school/)
 
 ## Table of Contents
 
@@ -179,11 +181,14 @@ Secondary Colors - Orange / Mustard / Blue
 
 ### How this site was deployed
 
-- In the GitHub repository, navigate to the Settings tab, then choose Pages from the left hand menu
-- From the source section drop-down menu, select the Master Branch
-- Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment
-- Any changes pushed to the master branch will take effect on the live project
+- In the GitHub repository, go to the Settings tab, then choose Pages from the left hand menu
+- Make sure that source is set to 'Deploy from Branch'
+- Main branch needs to be selected and folder should be set to root
+- Under branch, click save
+- Revisit the code tab and wait a few minutes for the build to finish, then refresh your repository
+- There will be an option to click on 'github-pages', on the right hand side, in the environments section
+- Click on 'view deployment' to see the live site.
 
-  The live link can be found here - [Whisper Riding School]()
+  The live link can be found here - [Whisper Riding School](https://ksdunne.github.io/whisper_riding_school/)
 
 ## Credits
