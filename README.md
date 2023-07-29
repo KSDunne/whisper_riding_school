@@ -177,4 +177,13 @@ Secondary Colors - Orange / Mustard / Blue
 
 ## Deployment
 
+### How this site was deployed
+
+- In the GitHub repository, navigate to the Settings tab, then choose Pages from the left hand menu
+- From the source section drop-down menu, select the Master Branch
+- Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment
+- Any changes pushed to the master branch will take effect on the live project
+
+  The live link can be found here - [Whisper Riding School]()
+
 ## Credits
