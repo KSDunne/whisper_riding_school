@@ -132,14 +132,14 @@ main {
     }
 }
 
-#cover-text {
+/*#cover-text {
     font-size: 130%;
     font-family: 'Quicksand', sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
 
-    width: 300px;
-    height: 200px;
+    width: 80%;
+    min-height: 200px;
 
     padding-top: 40px;
     padding-left: 10px;
@@ -150,12 +150,37 @@ main {
     right: 150px;
 
     position: absolute;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
 }
+
+#cover-text>h2 {
+    color: #ffffff;
+}*/
+
+
 
 /* home page information about whisper farm*/
 /*#whisper-farm {
     height: 300px;
 }*/
+
+#cover-text {
+    background-color: rgba(53, 150, 114, 0.7);
+    font-size: 130%;
+    position: absolute;
+    bottom: 25px;
+    width: 75%;
+    min-height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+}
+
+#cover-text>h2 {
+    color: #ffffff;
+}
 
 #center-about {
     padding-top: 30px;
