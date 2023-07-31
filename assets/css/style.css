@@ -250,6 +250,14 @@ hr {
     margin-bottom: 50px;
 }
 
+#fixed-image-section {
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+    background-image: url("../images/horse_fixed.webp");
+    background-attachment: fixed;
+}
+
 /* footer */
 
 .all-footer-divs {
