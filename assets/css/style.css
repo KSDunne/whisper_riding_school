@@ -207,9 +207,13 @@ hr {
     padding: 6px;
 }
 
-#benefits-list li {
+#benefits-list>li {
     margin-left: 25px;
     padding: 6px;
+}
+
+#benefits-list a {
+    font-weight: bold;
 }
 
 /* what we offer*/
