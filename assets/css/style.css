@@ -203,6 +203,10 @@ hr {
     margin-bottom: 50px;
 }
 
+#benefits-paragraph {
+    padding: 6px;
+}
+
 #benefits-list li {
     margin-left: 25px;
     padding: 6px;
