@@ -203,6 +203,11 @@ hr {
     margin-bottom: 50px;
 }
 
+#benefits-list li {
+    margin-left: 25px;
+    padding: 6px;
+}
+
 /* what we offer*/
 #lessons-home {
     background-color: #359672;
