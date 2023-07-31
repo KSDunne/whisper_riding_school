@@ -250,11 +250,24 @@ hr {
     margin-bottom: 50px;
 }
 
-#fixed-image-section {
+/*#fixed-image {
     height: 400px;
     width: 100%;
     overflow: hidden;
-    background-image: url("../images/horse_fixed.webp");
+    background: url("../images/horse_fixed.webp") center center/cover;
+    background-attachment: fixed;
+}*/
+
+#fixed-image-section {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#fixed-image {
+    height: 600px;
+    width: 100%;
+    background: url("../images/horse_fixed.webp") no-repeat center center/cover;
     background-attachment: fixed;
 }
 
