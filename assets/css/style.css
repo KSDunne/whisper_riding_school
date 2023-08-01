@@ -38,6 +38,10 @@ h2 {
     color: #252525;
 }
 
+h2 {
+    font-size: 120%;
+}
+
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
