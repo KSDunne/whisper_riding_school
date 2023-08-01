@@ -245,7 +245,7 @@ hr {
 }
 
 #offer {
-    background: url(../images/hay.webp) no-repeat center center/cover;
+    background: url(../images/hay_dark.webp) no-repeat center center/cover;
     display: flex;
     flex-wrap: wrap;
 }
@@ -253,7 +253,7 @@ hr {
 #offer div {
     color: #fffae6;
     /*I already have a background image, but I want a background colour too, as a fail safe in case the image doesn't load, also to offer contrast on the image for light-coloured text*/
-    background-color: rgba(0, 100, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.6);
     padding: 15px;
     text-align: center;
     /* There will be no wraping on screens of less than 400px wide*/
