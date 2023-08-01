@@ -240,12 +240,6 @@ hr {
     margin: 0 auto;
 }
 
-/*#offer {
-    padding-top: 30px;
-    width: 75%;
-    margin: 0 auto;
-}*/
-
 #offer {
     background: url(../images/hay.webp) no-repeat center center/cover;
     display: flex;
@@ -264,20 +258,8 @@ hr {
     border: 2px solid #ffffff;
 }
 
-/*#wwo-heading {
-    background-color: #ffffff;
-    padding: 6px;
-}*/
-
 #offer h2 {
     color: #fafafa;
-}
-
-.offer-heading {
-    width: 100%;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
 }
 
 #fixed-image-section {
