@@ -217,37 +217,60 @@ hr {
 
 /* what we offer*/
 #lessons-home {
-    background-color: #359672;
     padding-bottom: 20px;
     width: 100%;
     margin: 0 auto;
 }
 
 #world-home {
-    background-color: #CC864A;
     padding-bottom: 20px;
     width: 100%;
     margin: 0 auto;
 }
 
 #gear-home {
-    background-color: #38989c;
     padding-bottom: 20px;
     width: 100%;
     margin: 0 auto;
 }
 
-#contact-home {
-    background-color: #c9ac3b;
+#boarding-home {
     padding-bottom: 20px;
     width: 100%;
     margin: 0 auto;
 }
 
-#offer {
+/*#offer {
     padding-top: 30px;
     width: 75%;
     margin: 0 auto;
+}*/
+
+#offer {
+    background: url(../images/hay.webp) no-repeat center center/cover;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#offer div {
+    color: #fafafa;
+    background-color: rgba(53, 150, 114, 0.2);
+    padding: 15px;
+    text-align: center;
+    /* There will be no wraping on screens of less than 400px wide*/
+    flex-basis: 200px;
+    flex-grow: 1;
+    /* Create a grid over the background image*/
+    border: 2px solid #ffffff;
+}
+
+/*#wwo-heading {
+    background-color: #ffffff;
+    padding: 6px;
+}*/
+
+#offer h2 {
+    color: #fafafa;
 }
 
 .offer-heading {
