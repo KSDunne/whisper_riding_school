@@ -16,6 +16,10 @@ body {
     color: #3a3a3a;
 }
 
+p {
+    line-height: 160%;
+}
+
 /* headings and logo */
 
 header {
@@ -39,7 +43,7 @@ h2 {
 }
 
 h2 {
-    font-size: 128%;
+    font-size: 125%;
 }
 
 #menu {
@@ -175,6 +179,12 @@ main {
     color: #ffffff;
 }
 
+#whisper-farm h1 {
+    display: flex;
+    justify-content: center;
+    padding: 4% 0% 1%;
+}
+
 #center-about {
     padding-top: 30px;
     width: 78%;
@@ -223,6 +233,7 @@ hr {
 #benefits-list>li {
     margin-left: 25px;
     padding: 6px;
+    line-height: 160%;
 }
 
 #benefits-list a {
@@ -382,5 +393,42 @@ hr {
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
+    }
+}
+
+/* Very Large devices (large laptop screens and monitors, 1440px and up) */
+@media screen and (min-width: 1440px) {
+    #hero-image {
+        height: 850px;
+        width: 100%;
+        background: url(../images/horse_rider_hero.webp) no-repeat center center/cover;
+
+        /*animating zoom effect on the hero image when loading page */
+        animation-name: hero-zoom;
+        animation-duration: 5s;
+        animation-fill-mode: forwards;
+        background-position: top 5%;
+    }
+
+    #hero-image-atw {
+        height: 850px;
+        width: 100%;
+        background: url(../images/polo_hero.webp) no-repeat center center/cover;
+
+        /* animating zoom effect on the hero image when loading page */
+        animation-name: hero-zoom;
+        animation-duration: 5s;
+        animation-fill-mode: forwards;
+    }
+
+    #hero-image-contact {
+        height: 850px;
+        width: 100%;
+        background: url(../images/kiss_hero.webp) no-repeat center center/cover;
+
+        /* animating zoom effect on the hero image when loading page */
+        animation-name: hero-zoom;
+        animation-duration: 5s;
+        animation-fill-mode: forwards;
     }
 }
