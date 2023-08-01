@@ -161,7 +161,7 @@ main {
     font-size: 130%;
     position: absolute;
     bottom: 25px;
-    width: 75%;
+    width: 78%;
     min-height: 200px;
     padding-top: 40px;
     padding-left: 10px;
@@ -173,7 +173,7 @@ main {
 
 #center-about {
     padding-top: 30px;
-    width: 75%;
+    width: 78%;
     margin: 0 auto;
 }
 
@@ -191,7 +191,7 @@ hr {
 }
 
 #center-benefits {
-    width: 75%;
+    width: 78%;
     margin: 0 auto;
 }
 
@@ -240,6 +240,10 @@ hr {
     margin: 0 auto;
 }
 
+#offer-section {
+    padding: 0% 11% 0%;
+}
+
 #offer {
     background: url(../images/hay.webp) no-repeat center center/cover;
     display: flex;
@@ -247,8 +251,9 @@ hr {
 }
 
 #offer div {
-    color: #fafafa;
-    background-color: rgba(53, 150, 114, 0.2);
+    color: #fffae6;
+    /*I already have a background image, but I want a background colour too, as a fail safe in case the image doesn't load, also to offer contrast on the image for light-coloured text*/
+    background-color: rgba(0, 100, 0, 0.3);
     padding: 15px;
     text-align: center;
     /* There will be no wraping on screens of less than 400px wide*/
@@ -259,7 +264,8 @@ hr {
 }
 
 #offer h2 {
-    color: #fafafa;
+    color: #fffae6;
+    padding: 4%;
 }
 
 #fixed-image-section {
