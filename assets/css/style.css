@@ -181,6 +181,16 @@ main {
     margin: 0 auto;
 }
 
+#wwo-text {
+    padding-top: 30px;
+    width: 78%;
+    margin: 0 auto;
+}
+
+#wwo-text a {
+    font-weight: bold;
+}
+
 hr {
     border-top: 1px solid #3a3a3a;
     width: 100%;
