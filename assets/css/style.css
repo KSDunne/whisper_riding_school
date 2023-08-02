@@ -63,8 +63,8 @@ h2 {
 }
 
 .logo_img {
-    max-width: 3rem;
-    min-width: 3rem;
+    max-width: 4rem;
+    min-width: 4rem;
     display: none;
 }
 
@@ -424,6 +424,11 @@ img {
         max-width: 3rem;
         min-width: 3rem;
         display: inline-block;
+    }
+
+    #logo-span {
+        display: flex;
+        justify-content: center;
     }
 
 }
