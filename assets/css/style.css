@@ -316,6 +316,7 @@ hr {
     flex-wrap: wrap;
     background-color: #CC864A;
     border-top: 1px solid #000000;
+    margin-top: 20px;
 }
 
 .footer-divs p {
