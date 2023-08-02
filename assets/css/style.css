@@ -341,7 +341,7 @@ hr {
 }
 
 img {
-    max-width: 10vw;
+    max-width: 8rem;
     display: flex;
     justify-content: center;
 }
