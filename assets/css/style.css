@@ -266,7 +266,7 @@ hr {
 }
 
 #offer-section {
-    padding: 0% 11% 0%;
+    padding: 0% 11% 2%;
 }
 
 #offer {
@@ -313,12 +313,21 @@ hr {
     justify-content: space-evenly;
     text-align: center;
     flex-wrap: wrap;
+    background-color: #CC864A;
+    border-top: 1px solid #000000;
 }
 
 .footer-headings {
     text-align: center;
     text-decoration: underline;
 }
+
+/*Adding an id selector instead of a class to target the following heading specifically to target slight off-centerness with next line of social icons. The off centeredness is due to the icons themselves having right padding built into the icon*/
+#stayintouchheading {
+    padding: 0px, 80px, 0px;
+    text-decoration: underline;
+}
+
 
 .socials {
     text-align: center;
@@ -336,6 +345,30 @@ hr {
 
 .footer-divs {
     padding: 10px 0;
+}
+
+img {
+    max-width: 10vw;
+    display: flex;
+    justify-content: center;
+}
+
+#footer_copywrite {
+    /*border-top: 1px solid #000000;*/
+    color: #3a3a3a;
+    display: flex;
+    justify-content: center;
+    padding: 1rem 0rem;
+    background-color: #CC864A;
+}
+
+#footer_copywrite i {
+    font-size: 170%;
+    color: #3a3a3a;
+}
+
+.copywrite_span {
+    padding: 0vw 1vw;
 }
 
 /* media query: tablets and larger (768px and up) */
