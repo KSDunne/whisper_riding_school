@@ -54,11 +54,23 @@ h2 {
 
 #logo {
     font-size: 170%;
+    display: inline-block;
 }
 
 #menu,
 #logo {
     line-height: 75px;
+}
+
+.logo_img {
+    max-width: 3rem;
+    min-width: 3rem;
+    display: none;
+}
+
+#logo-span {
+    display: flex;
+    justify-content: center;
 }
 
 #menu li {
@@ -407,6 +419,13 @@ img {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
     }
+
+    .logo_img {
+        max-width: 3rem;
+        min-width: 3rem;
+        display: inline-block;
+    }
+
 }
 
 /* Very Large devices (large laptop screens and monitors, 1440px and up) */
