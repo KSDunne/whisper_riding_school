@@ -406,6 +406,23 @@ hr {
     color: #2a2a2a;
 }
 
+::placeholder {
+    /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #fffae6;
+    opacity: 1;
+    /* Firefox */
+}
+
+:-ms-input-placeholder {
+    /* Internet Explorer 10-11 */
+    color: #fffae6;
+}
+
+::-ms-input-placeholder {
+    /* Microsoft Edge */
+    color: #fffae6;
+}
+
 /* footer */
 
 .container-footer-divs {
