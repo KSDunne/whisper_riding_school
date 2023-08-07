@@ -358,24 +358,34 @@ hr {
 /*contact page*/
 /*contact form*/
 
+#signup {
+    background-image: url("../images/hay_dark.webp");
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+
 #signup-form {
-    color: #2a2a2a;
-    background-color: rgba(53, 150, 114, 0.7);
+    color: #fffae6;
+    background-color: rgba(53, 150, 114, 0.8);
     padding: 30px;
 }
 
 #signup-form>h2 {
-    color: #2a2a2a;
+    color: #fffae6;
     margin-bottom: 20px;
 }
 
 .text-input {
     background: transparent;
-    color: #2a2a2a;
+    color: #fffae6;
     width: 100%;
     height: 25px;
     margin: 5px 0 20px 0;
-    border: 1px solid #2a2a2a;
+    border: 1px solid #fffae6;
     border-radius: 2px;
     padding: 0 5px;
 }
@@ -384,6 +394,7 @@ hr {
     width: 100%;
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .join-button {
@@ -391,7 +402,7 @@ hr {
     border-radius: 2px;
     padding: 15px 32px;
     font-size: 100%;
-    background-color: #ffffff;
+    background-color: #fffae6;
     color: #2a2a2a;
 }
 
