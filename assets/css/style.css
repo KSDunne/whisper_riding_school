@@ -332,6 +332,19 @@ hr {
     background: url("../images/atw_polo.webp") no-repeat center center/cover;
 }
 
+#horseball-image {
+    height: 400px;
+    width: 80%;
+    margin: 0 auto;
+    background: url("../images/horseball.webp") no-repeat center center/cover;
+}
+
+#western-image {
+    height: 400px;
+    width: 80%;
+    margin: 0 auto;
+    background: url("../images/western.webp") no-repeat center center/cover;
+}
 
 /* footer */
 
