@@ -325,6 +325,13 @@ hr {
     background: url("../images/dressage.webp") no-repeat center center/cover;
 }
 
+#polo-image {
+    height: 400px;
+    width: 80%;
+    margin: 0 auto;
+    background: url("../images/atw_polo.webp") no-repeat center center/cover;
+}
+
 
 /* footer */
 
