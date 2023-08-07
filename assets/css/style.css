@@ -355,6 +355,46 @@ hr {
     padding-bottom: 5px;
 }
 
+/*contact page*/
+/*contact form*/
+
+#signup-form {
+    color: #2a2a2a;
+    background-color: rgba(53, 150, 114, 0.7);
+    padding: 30px;
+}
+
+#signup-form>h2 {
+    color: #2a2a2a;
+    margin-bottom: 20px;
+}
+
+.text-input {
+    background: transparent;
+    color: #2a2a2a;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #2a2a2a;
+    border-radius: 2px;
+    padding: 0 5px;
+}
+
+.radio-buttons {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px;
+    font-size: 100%;
+    background-color: #454b1b;
+    color: #2a2a2a;
+}
+
 /* footer */
 
 .container-footer-divs {
