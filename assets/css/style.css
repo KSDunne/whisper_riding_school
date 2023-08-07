@@ -318,6 +318,14 @@ hr {
     background-attachment: scroll;
 }
 
+#dressage-image {
+    height: 400px;
+    width: 80%;
+    margin: 0 auto;
+    background: url("../images/dressage.webp") no-repeat center center/cover;
+}
+
+
 /* footer */
 
 .container-footer-divs {
