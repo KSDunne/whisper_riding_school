@@ -339,13 +339,6 @@ hr {
     background: url("../images/horseball.webp") no-repeat center center/cover;
 }
 
-#western-image {
-    height: 400px;
-    width: 80%;
-    margin: 0 auto;
-    background: url("../images/western.webp") no-repeat center center/cover;
-}
-
 #cindy-title {
     display: flex;
     justify-content: center;
