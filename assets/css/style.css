@@ -577,7 +577,7 @@ img {
         display: inline-block;
     }
 
-    #logo-span {
+    #logo-div {
         display: flex;
         justify-content: center;
     }
