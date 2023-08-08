@@ -78,7 +78,6 @@ h2 {
     margin-right: 30px;
 }
 
-
 #menu a {
     text-decoration: none;
     color: inherit;
@@ -403,8 +402,8 @@ hr {
 ::placeholder {
     /* Chrome, Firefox, Opera, Safari 10.1+ */
     color: #fffae6;
+    /* Opacity setting is needed for Firefox */
     opacity: 1;
-    /* Firefox */
 }
 
 :-ms-input-placeholder {
@@ -565,7 +564,6 @@ img {
         display: flex;
         justify-content: center;
     }
-
 }
 
 /* Very Large devices (large laptop screens and monitors, 1440px and up) */
