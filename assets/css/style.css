@@ -333,10 +333,12 @@ hr {
     background: url("../images/horseball.webp") no-repeat center center/cover;
 }
 
-#cindy-title {
+#tackup-title {
     display: flex;
     justify-content: center;
-    padding-top: 18px;
+    margin: 0 auto;
+    width: 80%;
+    padding-bottom: 25px;
 }
 
 #youtube-wrapper {
