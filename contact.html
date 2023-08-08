@@ -74,17 +74,21 @@
                     <div id="form-div">
                         <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net">
                             <h2><i class="fa-solid fa-horse"></i> Contact Us</h2>
-                            <label for="first_name">First Name</label>
-                            <input type="text" name="first_name" id="first_name" class="text-input"
-                                placeholder="*First name" required>
+                            <label for="full_name">Full Name</label>
+                            <input type="text" name="full_name" id="full_name" class="text-input"
+                                placeholder="*Full name" required>
                             <br>
-                            <label for="last_name">Last Name</label>
-                            <input type="text" name="last_name" id="last_name" class="text-input"
-                                placeholder="*Last name" required>
+                            <label for="phone_number">Phone</label>
+                            <input type="text" name="phone_number" id="phone_number" class="text-input"
+                                placeholder="*Phone" required>
                             <br>
                             <label for="email_address">Email Address</label>
                             <input type="email" name="email_address" id="email_address" class="text-input"
-                                placeholder="*Email" required>
+                                placeholder="Email">
+                            <br>
+                            <label for="feedback-message">Message</label>
+                            <textarea id="feedback-message" class="text-input text-input-box" name="message"
+                                placeholder="Give us a heads-up about what you would like to talk about. This will help us prepare before calling you. Chat soon!"></textarea>
                             <br>
                             <div class="radio-buttons">
                                 <div>
@@ -101,7 +105,7 @@
                                     <input type="radio" name="contact_reason" id="livery" value="livery" required>
                                 </div>
                             </div>
-                            <button type="submit" class="join-button">Let's Ride!</button>
+                            <button type="submit" class="submit-button">Let's Ride!</button>
                         </form>
                     </div>
                 </div>

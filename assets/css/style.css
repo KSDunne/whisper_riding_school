@@ -395,6 +395,10 @@ hr {
     padding: 0 5px;
 }
 
+.text-input-box {
+    height: 6rem;
+}
+
 .radio-buttons {
     width: 100%;
     display: flex;
@@ -402,11 +406,12 @@ hr {
     flex-wrap: wrap;
 }
 
-.join-button {
+.submit-button {
     margin-top: 20px;
     border-radius: 6px;
     padding: 15px 32px;
     font-size: 100%;
+    font-weight: bold;
     background-color: #fffae6;
     color: #2a2a2a;
 }
