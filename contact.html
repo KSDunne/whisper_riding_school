@@ -67,35 +67,46 @@
             </div>
         </section>
         <section id="signup">
-            <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net">
-                <h2><i class="fa-solid fa-horse"></i> Contact Us</h2>
-                <label for="first_name">First Name</label>
-                <input type="text" name="first_name" id="first_name" class="text-input" placeholder="*First name"
-                    required>
-                <br>
-                <label for="last_name">Last Name</label>
-                <input type="text" name="last_name" id="last_name" class="text-input" placeholder="*Last name" required>
-                <br>
-                <label for="email_address">Email Address</label>
-                <input type="email" name="email_address" id="email_address" class="text-input" placeholder="*Email"
-                    required>
-                <br>
-                <div class="radio-buttons">
-                    <div>
-                        <label for="lessons">Lessons</label>
-                        <input type="radio" name="contact_reason" id="lessons" value="lessons" required checked>
-                    </div>
-                    <div>
-                        <label for="gear">Advice On Gear</label>
-                        <input type="radio" name="contact_reason" id="gear" value="gear" required>
-                    </div>
-                    <div>
-                        <label for="livery">Boarding or Livery</label>
-                        <input type="radio" name="contact_reason" id="livery" value="livery" required>
-                    </div>
+            <div id="contact-container">
+                <div id="form-div">
+                    <form id="signup-form" method="POST" action="https://formdump.codeinstitute.net">
+                        <h2><i class="fa-solid fa-horse"></i> Contact Us</h2>
+                        <label for="first_name">First Name</label>
+                        <input type="text" name="first_name" id="first_name" class="text-input"
+                            placeholder="*First name" required>
+                        <br>
+                        <label for="last_name">Last Name</label>
+                        <input type="text" name="last_name" id="last_name" class="text-input" placeholder="*Last name"
+                            required>
+                        <br>
+                        <label for="email_address">Email Address</label>
+                        <input type="email" name="email_address" id="email_address" class="text-input"
+                            placeholder="*Email" required>
+                        <br>
+                        <div class="radio-buttons">
+                            <div>
+                                <label for="lessons">Lessons</label>
+                                <input type="radio" name="contact_reason" id="lessons" value="lessons" required checked>
+                            </div>
+                            <div>
+                                <label for="gear">Advice On Gear</label>
+                                <input type="radio" name="contact_reason" id="gear" value="gear" required>
+                            </div>
+                            <div>
+                                <label for="livery">Boarding or Livery</label>
+                                <input type="radio" name="contact_reason" id="livery" value="livery" required>
+                            </div>
+                        </div>
+                        <button type="submit" class="join-button">Let's Ride!</button>
+                    </form>
                 </div>
-                <button type="submit" class="join-button">Let's Ride!</button>
-            </form>
+                <div id="map-div">
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9693.8916895262!2d-6.909909720414688!3d52.597222087047484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x485d4e72b9d52bed%3A0x82422959f34eabed!2sKilcoltrim%2C%20Kilcoltrim%20Lane%2C%20Co.%20Carlow!5e0!3m2!1sen!2sie!4v1691508602104!5m2!1sen!2sie"
+                        id=map-iframe height="250" style="border:0;" allowfullscreen="" loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+            </div>
         </section>
     </main>
 

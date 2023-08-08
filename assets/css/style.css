@@ -423,6 +423,35 @@ hr {
     color: #fffae6;
 }
 
+#contact-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#contact-container div {
+    color: #fffae6;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 15px;
+    text-align: center;
+    flex-grow: 1;
+    flex-wrap: wrap;
+    flex-direction: column;
+    /* Create a grid over the background image*/
+    border: 2px solid #ffffff;
+}
+
+#map-div {
+    padding-bottom: 5px;
+    /*width: 100%;*/
+    margin: 0 auto;
+}
+
+#map-iframe {
+    min-width: 120px;
+}
+
 /* footer */
 
 .container-footer-divs {
