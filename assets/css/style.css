@@ -191,13 +191,7 @@ main {
     color: #ffffff;
 }
 
-#whisper-farm h1 {
-    display: flex;
-    justify-content: center;
-    padding: 4% 0% 1%;
-}
-
-#center-about {
+.center-about {
     padding-top: 30px;
     width: 80%;
     margin: 0 auto;
