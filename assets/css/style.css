@@ -35,7 +35,8 @@ header {
 }
 
 h1,
-h2 {
+h2,
+h3 {
     font-family: 'Quicksand', sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -44,6 +45,10 @@ h2 {
 
 h2 {
     font-size: 122%;
+}
+
+h3 {
+    font-size: 90%;
 }
 
 #menu {
@@ -309,6 +314,12 @@ hr {
     width: 100%;
     background: url("../images/horse_walking.webp") no-repeat center center/cover;
     background-attachment: scroll;
+}
+
+#fixed-image-section>h3 {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 15px;
 }
 
 /* Around the world page*/
