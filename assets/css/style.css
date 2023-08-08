@@ -316,11 +316,12 @@ hr {
     background-attachment: scroll;
 }
 
-#fixed-image-section>h3 {
+/*#fixed-image-section>h3 {
     display: flex;
     justify-content: center;
     padding-bottom: 15px;
-}
+    margin: 0 auto;
+}*/
 
 /* Around the world page*/
 #dressage-image {
@@ -344,9 +345,10 @@ hr {
     background: url("../images/horseball.webp") no-repeat center center/cover;
 }
 
-#tackup-title {
+.tackup-title {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     margin: 0 auto;
     width: 80%;
     padding-bottom: 25px;
@@ -574,6 +576,13 @@ img {
         background: url("../images/horse_walking.webp") no-repeat center center/cover;
         background-attachment: fixed;
     }
+
+    /*#fixed-image-section>h3 {
+        display: flex;
+        justify-content: center;
+        padding-bottom: 15px;
+        margin: 0 auto;
+    }*/
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
