@@ -68,7 +68,7 @@ h2 {
     display: none;
 }
 
-#logo-span {
+#logo-div {
     display: flex;
     justify-content: center;
 }
