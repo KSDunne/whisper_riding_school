@@ -67,7 +67,7 @@ h3 {
     line-height: 75px;
 }
 
-.logo_img {
+.logo-img {
     padding-top: 5px;
     display: none;
     aspect-ratio: auto;
@@ -589,7 +589,7 @@ img {
         border-bottom: 1px solid #3a3a3a;
     }
 
-    .logo_img {
+    .logo-img {
         display: inline-block;
     }
 
