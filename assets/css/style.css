@@ -181,7 +181,7 @@ main {
 /* home page information about whisper farm*/
 
 #cover-text {
-    background-color: rgba(53, 150, 114, 0.7);
+    background-color: rgba(53, 150, 114, 0.8);
     font-size: 130%;
     position: absolute;
     bottom: 25px;
@@ -189,9 +189,14 @@ main {
     min-height: 200px;
     padding-top: 40px;
     padding-left: 10px;
+    text-align: center;
 }
 
 #cover-text>h2 {
+    color: #ffffff;
+}
+
+#cover-text>h3 {
     color: #ffffff;
 }
 
@@ -562,6 +567,8 @@ img {
     #cover-text {
         width: 300px;
         right: 50px;
+        text-align: center;
+        border-radius: 6px;
     }
 
     #fixed-image-section {
