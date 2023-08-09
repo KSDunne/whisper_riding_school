@@ -68,7 +68,7 @@ h3 {
 }
 
 .logo_img {
-    aspect-ratio: auto;
+    padding-top: 5px;
     display: none;
 }
 
@@ -585,8 +585,6 @@ img {
     }
 
     .logo_img {
-        max-width: 3rem;
-        min-width: 3rem;
         display: inline-block;
     }
 
