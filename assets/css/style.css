@@ -70,11 +70,11 @@ h3 {
 .logo_img {
     padding-top: 5px;
     display: none;
-    aspect-ratio: 1 / 1;
+    aspect-ratio: auto;
 }
 
 .footer-logo {
-    aspect-ratio: 1 / 1;
+    aspect-ratio: auto;
 }
 
 #logo-div {
