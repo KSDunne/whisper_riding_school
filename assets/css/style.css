@@ -316,13 +316,6 @@ hr {
     background-attachment: scroll;
 }
 
-/*#fixed-image-section>h3 {
-    display: flex;
-    justify-content: center;
-    padding-bottom: 15px;
-    margin: 0 auto;
-}*/
-
 /* Around the world page*/
 #dressage-image {
     height: 400px;
@@ -355,8 +348,8 @@ hr {
 #youtube-wrapper {
     position: relative;
     overflow: hidden;
-    width: 60%;
-    padding-top: 38%;
+    width: 80%;
+    padding-top: 50%;
     margin: 0 auto;
 }
 
@@ -576,6 +569,14 @@ img {
         width: 100%;
         background: url("../images/horse_walking.webp") no-repeat center center/cover;
         background-attachment: fixed;
+    }
+
+    #youtube-wrapper {
+        position: relative;
+        overflow: hidden;
+        width: 60%;
+        padding-top: 38%;
+        margin: 0 auto;
     }
 }
 
