@@ -346,12 +346,10 @@ hr {
 }
 
 .tackup-title {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
     margin: 0 auto;
     width: 80%;
     padding-bottom: 25px;
+    text-align: center;
 }
 
 #youtube-wrapper {
