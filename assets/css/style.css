@@ -68,8 +68,7 @@ h3 {
 }
 
 .logo_img {
-    max-width: 4rem;
-    min-width: 4rem;
+    aspect-ratio: auto;
     display: none;
 }
 
@@ -358,7 +357,7 @@ hr {
     position: relative;
     overflow: hidden;
     width: 80%;
-    padding-top: 50%;
+    aspect-ratio: 16 / 9;
     margin: 0 auto;
 }
 
