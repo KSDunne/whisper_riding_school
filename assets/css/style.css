@@ -201,6 +201,10 @@ main {
     margin: 0 auto;
 }
 
+.cindy-title {
+    font-size: 105%;
+}
+
 #wwo-text {
     padding-top: 30px;
     width: 80%;
