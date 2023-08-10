@@ -14,34 +14,16 @@ Whisper Riding School is a fictitious business. Here is a 3-page, responsive web
 
 ## Table of Contents
 
-## Project goals
-
-The goals of this website are as follows:
-
-### Business goals
-
-- Provide the user with information about the benefits of horse riding
-- Increase awareness of the services that Whisper Riding School provides
-- Educate the customer with snippets of horse riding disaplines from around the world
-- Educate the customer on safe and functional riding gear
-- Create an easy path for customers to find our contact details and to find our physical site in Carlow
-
-### User goals
-
-- Learn about the benefits of horse riding as a hobby
-- Once the user knows about the benefits of horse riding then would then like to find a service that offers horse riding lessons in the Leinster region of Ireland
-- Learn about a range of horse riding disaplines from around the world
-- Familiarise themselves with safe and functional riding gear
-- Find contact information for the farm so they can arrange a time and date for their riding lessons and easily find the physical site using a map
-
 ## User experience (UX)
 
 ### Target audience
 
 - Adult customers that are new to horse riding that would like to explore the benefits of physical exericise paired with a connection to animals
 - Parents of children that would like to explore horse riding as a new hobby
-- Experienced riders that would like to book lessons or use the site to widen their knowledge about riding disaplines from around the world
+- Experienced riders that would like to book lessons
+- People that would like to use the educational aspect of the site to widen their knowledge about riding disaplines from around the world
 - Perspective lesson customers that would like to know what gear to bring with them, that is safe and functional? As this is a FAQ in horse riding
+- People that would like to know the location of the farm so they can plan their trip to see us
 
 ### User requirements and expectations
 
@@ -49,30 +31,22 @@ The goals of this website are as follows:
 - An intuitive navigation system wheather using a mobile, tablet or monitor
 - Ability to quickly find relevant information on the business and its services
 - Easy ways to contact the business and find our physical site using a map
-- An ability to learn about horse riding disaplines from around the world and about safe riding gear
-- Access to a newsletter sign up form
+- An ability to learn about horse riding disaplines from around the world
+- Access to a contact form
 - An accessible website for all users
 - A website that loads quickly on all devices and connections
 
 ## User stories
 
-### 1. First time visitor goals
-
-- As a first time visitor, I want to understand purpose of this website and to easily navigate through it
-- As a first time visitor, I want to see the benefits of horse riding, so I can tell whether I would like to do it or not
-- As a first time visitor, I want to be able to see if the physical site is near where I live and find out how to contact them, e.g. a map, social links and contact information
-
-### 2. Returning visitor goals
-
-- As a returning visitor, I want to contact Whisper Riding School to book a lesson
-- As a returning visitor, I want to be able to learn about safe riding gear that I should bring with me to my lesson
-- As a returning visitor, I want to check the map again, however this time it is to plan my route for the day I will arrive at my lesson
-
-### 3. Frequent user goals
-
-- As a frequent user, I want to broden my knowlegde of horse riding disaplines from around the world
-- As a frequent user, I want to sign up for a newsletter
-- As a frequent user, I want to check to see if there is any new updates on the website
+- As a site visitor, I want to understand purpose of this website and to easily navigate through it
+- As a site visitor, I want to be able to see the name of the business and their main offering as soon as I land on the home page
+- As a site visitor, I want to learn a bit about the history of the farm
+- As a site visitor, I want to see the benefits of horse riding, so I can tell whether I would like to do it or not
+- As a site visitor, I want to be able to see the location of the farm so that I can plan my visit e.g. a map
+- As a site visitor, I want to find out ways to contact or connect with the business, e.g. a contact form and social media links
+- As a site visitor, I want to contact Whisper Riding School to book a lesson
+- As a site visitor, I want to be able to learn about safe riding gear that I should bring with me to my lesson
+- As a site visitor, I want to broden my knowlegde of horse riding disaplines from around the world
 
 ## Features
 
