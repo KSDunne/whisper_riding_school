@@ -78,7 +78,7 @@ The goals of this website are as follows:
 
 ### Logo and Navigation bar
 
-A responsive navigation bar is in place. Concentrating on 'mobile first' design, the navigation bar incorporates a clickable burger icon with a drop down menu on mobile. When moving to tablet and monitor size the burger disappears and a traditional navigation bar appears with options to navigate to pages; 'Home', 'Around the World' or 'Contact'. There is a clickable horse logo for monitor sizes.
+A responsive navigation bar is in place. Concentrating on 'mobile first' design, the navigation bar incorporates a clickable burger icon with a drop down menu on mobile. When moving to tablet and monitor size the burger disappears and a traditional navigation bar appears with options to navigate to pages; 'Home', 'Around the World' or 'Contact'. There is a clickable horse logo for monitor sizes. This design benefits the user as it is intuitive and a common nav bar design. It is inviting to use, because it is easy to navigate.
 
 #### Mobile navigation bar with burger menu
 
@@ -94,11 +94,23 @@ The hero image on the index page was chosen to convey the exact purpose of Whisp
 
 #### Mobile hero image on home page
 
-![Mobile navbar with burger menu](docs/hero_index_mobile.webp)
+![Mobile hero image on home page](docs/hero_index_mobile.webp)
 
 #### Monitor hero image on home page
 
-![Monitor navbar with clickable horse logo](docs/hero_index_monitor.webp)
+![Monitor hero image on home page](docs/hero_index_monitor.webp)
+
+### Cover text and tagline
+
+The responsive cover text over the hero image states the name of the business and the tagline conveys that we offer lessons. Lessons are what the site user is most likely looking for when they visit this website.
+
+#### Covertext on mobile
+
+![Mobile navbar with burger menu](docs/covertext_index_mobile.webp)
+
+#### Covertext on monitor
+
+![Mobile navbar with burger menu](docs/covertext_index_monitor.webp)
 
 ### About
 
