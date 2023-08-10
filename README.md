@@ -96,7 +96,7 @@ Gives a romantic history of the farm.
 
 ### Benefits of Horse Riding
 
-Allows the site user to understand the benefits that go along with physical exercise and connection to an animal. The user might choose to take horse riding up as a hobby after reading these benefits.
+Allows the site user to understand the benefits that go along with physical exercise and connection to an animal. The user might choose to take horse riding up as a hobby after reading these benefits. The titles of each benfit are links to pages that explain the benefits more.
 
 #### Benefits screenshot
 
@@ -130,7 +130,7 @@ States the four main services that Whisper Riding School offer through the websi
 
 ### Around the World
 
-'Around the World' is the second page of this website and it offers the user 4 educational snippets. The user can learn about riding disaplines from around the world Photos of dressage, polo, horse ball and western riding can be seen here with short explainations of each. There is a video near the bottom of this page that shows a western tack up routine. The video provides interaction for a site user.
+'Around the World' is the second page of this website and it offers the user 4 educational snippets. The user can learn about riding disaplines from around the world Photos of dressage, polo, horse ball and western riding can be seen here with short explainations of each. There is a video near the bottom of this page that shows a western tack up routine. There is a 'call to action' to view the video in the text and the video provides interaction for the site user.
 
 #### Around the world hero image on mobile
 
