@@ -262,6 +262,8 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 - [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 - [Google Maps](https://www.google.com/maps)
 - [YouTube](https://www.youtube.com/)
+- [ChatGPT](https://chat.openai.com/) Note: AI was used for text content inspiration, not code. Text generated was edited by developer.
+- [Perplexity AI](https://www.perplexity.ai/) Note: AI was used for text content inspiration, not code. Text generated was edited by developer.
 
 ## Testing
 
