@@ -116,11 +116,31 @@ The responsive cover text over the hero image states the name of the business an
 
 Gives a romantic history of the farm.
 
+#### About screenshot
+
+![About screenshot](docs/about.webp)
+
 ### Benefits of Horse Riding
+
+Allows the site user to understand the benefits that go along with physical exercise and connection to an animal. The user might choose to take horse riding up as a hobby after reading these benefits.
+
+#### Benefits screenshot
+
+![Benefits screenshot](docs/benefits_ss.webp)
 
 ### A fixed background image
 
-The fixed background image is of a farm landscape. This is a nice visual that is fun to scroll to break up the large about of text that is on the index page.
+The fixed background image is of a pony called cindy. This is a nice visual that is fun to scroll on a monitor to break up the large about of text that is on the index page. It is not a fixed bacground image on mobile.
+
+#### Skewball image on mobile
+
+![Skewball image on mobile](docs/skewball_image_mobile.webp)
+
+#### A fixed background image on tablet and monitor. See below the following 2 screen shots of how it looks when you scroll.
+
+![Fixed background image on tablet and monitor 1](docs/skewball_fixed_1.webp)
+
+![Fixed background image on tablet and monitor 2](docs/skewball_fixed_2.webp)
 
 ### What We Offer?
 
