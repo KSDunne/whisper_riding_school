@@ -146,9 +146,33 @@ The fixed background image is of a pony called cindy. This is a nice visual that
 
 States the four main services that Whisper Riding School offer through the website and the business. These are; 1. 'lessons', 2. 'education' of diverse horse riding disaplines, 3. 'advice on gear' and 4. 'boarding and livery'.
 
+#### Responsive what we offer panels on mobile
+
+![Responsive what we offer panels on mobile](docs/wwo_responsive_mobile.webp)
+
+#### Responsive what we offer panels on a monitor
+
+![Responsive what we offer panels on a monitor](docs/wwo_responsive_monitor.webp)
+
 ### Around the World
 
-'Around the World' is the second page of this website and it offers the user 4 educational snippets. The user can learn about riding disaplines from around the world Photos of dressage, polo, horse ball and western riding can be seen here with short explainations of each.
+'Around the World' is the second page of this website and it offers the user 4 educational snippets. The user can learn about riding disaplines from around the world Photos of dressage, polo, horse ball and western riding can be seen here with short explainations of each. There is a video near the bottom of this page that shows a western tack up routine. The video provides interaction for a site user.
+
+#### Around the world hero image on mobile
+
+![Around the world hero image on mobile](docs/aroundtheworld_hero_ss.webp)
+
+#### Education text
+
+![Education text](docs/education_text.webp)
+
+#### Education image
+
+![Education image](docs/education_image.webp)
+
+#### Education video
+
+![Education video](docs/education_video.webp)
 
 ### Contact Us
 
