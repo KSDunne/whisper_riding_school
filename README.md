@@ -104,7 +104,7 @@ Allows the site user to understand the benefits that go along with physical exer
 
 ### A fixed background image
 
-The fixed background image is of a pony called cindy. This is a nice visual that is fun to scroll on a monitor to break up the large about of text that is on the index page. It is not a fixed bacground image on mobile.
+The fixed background image is of a pony called cindy. This is a nice visual that is fun to scroll on a monitor to break up the large about of text that is on the index page. It is not a fixed background image on mobile.
 
 #### Skewball image on mobile
 
