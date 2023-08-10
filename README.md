@@ -118,7 +118,7 @@ Gives a romantic history of the farm.
 
 #### About screenshot
 
-![About screenshot](docs/about.webp)
+![About screenshot](docs/about_ss.webp)
 
 ### Benefits of Horse Riding
 
