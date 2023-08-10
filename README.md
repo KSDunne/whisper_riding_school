@@ -92,6 +92,14 @@ A responsive navigation bar is in place. Concentrating on 'mobile first' design,
 
 The hero image on the index page was chosen to convey the exact purpose of Whisper Riding School. It is a colourful image of a girl jumping a fence on horseback in a sand arena. This is a typical activity you would find at a riding school in Ireland.
 
+#### Mobile hero image on home page
+
+![Mobile navbar with burger menu](docs/hero_index_mobile.webp)
+
+#### Monitor hero image on home page
+
+![Monitor navbar with clickable horse logo](docs/hero_index_monitor.webp)
+
 ### About
 
 Gives a romantic history of the farm.
