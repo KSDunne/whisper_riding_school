@@ -80,7 +80,7 @@ The goals of this website are as follows:
 
 A responsive navigation bar is in place. Concentrating on 'mobile first' design, the navigation bar incorporates a clickable burger icon with a drop down menu on mobile. When moving to tablet and monitor size the burger disappears and a traditional navigation bar appears with options to navigate to pages; 'Home', 'Around the World' or 'Contact'. There is a clickable horse logo for monitor sizes.
 
-#### Mobile navigation bar
+#### Mobile navigation bar with burger menu
 
 ![Mobile navbar with burger menu](docs/navbar_burger.webp)
 
@@ -167,11 +167,11 @@ Secondary Colors - Orange / Mustard / Blue
 
 ### Index Page Wireframes
 
-  ![iPhone SE](docs/wireframes/index_iphonese.png)
+![iPhone SE](docs/wireframes/index_iphonese.png)
 
-  ![Tablet](docs/wireframes/index_tablet.png)
+![Tablet](docs/wireframes/index_tablet.png)
 
-  ![Monitor](docs/wireframes/index_monitor.png)
+![Monitor](docs/wireframes/index_monitor.png)
 
 ## Technology
 
