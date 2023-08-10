@@ -188,7 +188,11 @@ A form with 4 input boxes and a submit button. Two of the fields are required. T
 
 ### Map
 
-Google maps feature
+The Google maps feature is embedded in an iframe and this provides the site user the ability to plan their trip to the farm. It is responsive and is different sizes depending on the screen size the user has.
+
+#### Responsive google map
+
+![Google map](docs/responsive_map_ss.webp)
 
 ### Footer
 
