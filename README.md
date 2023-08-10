@@ -250,18 +250,18 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
 - [Git](https://git-scm.com/)
 - [GitHub](https://github.com/)
+- [Code Anywhere Cloud IDE](https://app.codeanywhere.com/)
 - [Balsamiq](https://balsamiq.com/wireframes/)
 - [Favicon](https://favicon.io/favicon-generator/#google_vignette)
-- [YouTube](https://www.youtube.com/)
 - [Venngage's Accessible color palette generator](https://venngage.com/tools/accessible-color-palette-generator)
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](https://fontawesome.com/)
 - [W3C Markup Validation Service](https://validator.w3.org/)
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 - [Google Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
 - [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
-- [Code Anywhere Cloud IDE](https://app.codeanywhere.com/)
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](https://fontawesome.com/)
 - [Google Maps](https://www.google.com/maps)
+- [YouTube](https://www.youtube.com/)
 
 ## Testing
 
