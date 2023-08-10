@@ -190,17 +190,14 @@ Which displays a clickable business logo, social media links, a copyright and a 
 
 ## Future features
 
-### Live weather forecast
-
-This is a feature on some similar websites that I saw when doing research for this project.
-
-### A page dedicated to gear
-
-This is another popular page on horse riding websites.
-
-### A masonry photo gallery
-
-### Copywrite in the footer
+- Live weather forcast. This is a feature on some similar websites that I saw when doing research for this project. I saw a div with a widget that contains live data.
+- A page dedicated to gear. This is another popular page on horse riding websites.
+- A masonry photo gallery
+- A checkbox to sign-up for a newsletter
+- A whisper riding school themed 404 page
+- A whisper riding school themed confirmation page, once the form has been submitted. The code institute template one is in place at the moment.
+- Contact details in the footer e.g. farm address and phone number
+- More internal links to make navigation around the site very easy
 
 ## Design
 
