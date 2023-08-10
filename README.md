@@ -176,7 +176,15 @@ States the four main services that Whisper Riding School offer through the websi
 
 ### Contact Us
 
-A form with 4 input boxes and a submit button. Two of the fields are required. The required fields are 'Name' and 'Phone number'. Optional fields are email and a message. There is placeholder text in each field of the form.
+A form with 4 input boxes and a submit button. Two of the fields are required. The required fields are 'Full Name' and 'Phone'. Optional fields are email and a message. There is placeholder text in each field of the form.
+
+#### Contact Form
+
+![Form screenshot](docs/form_ss.webp)
+
+#### Form radio buttons and submit button
+
+![Form radio and submit buttons](docs/form_radio_submit_ss.webp)
 
 ### Map
 
