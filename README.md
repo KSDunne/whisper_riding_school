@@ -12,7 +12,7 @@ Link to live website: [Whisper Riding School](https://ksdunne.github.io/whisper_
 
 ## Purpose of the project
 
-This is a responsive website built using only HTML and CSS for a fictitious business. The business I chose to build a website for is a horse riding school. This website is aimed at people that are interested in trying horse riding as a hobby, in the Leinster area of Ireland. The owner of 'Whisper Riding School' seeks to provide value to these people via horse riding education and in turn convert these interested people into customers of 'Whisper Riding School'. This website provides the user with information about the benefits of horse riding, information about lessons, provides education on horse riding disaplines from around the world and provides information on safe and functional riding gear. This website encourages customers to contact us to book riding lessons and encourages the customer to sign up for a newsletter.
+Whisper Riding School is a fictitious business. Here is a 3-page, responsive website, built using only HTML and CSS for that business. This website is aimed at people that are interested in trying horse riding as a hobby, in the Leinster area of Ireland. The owner of 'Whisper Riding School' seeks to provide value to these people via horse riding education and in turn convert these interested people into customers of 'Whisper Riding School'. This website provides the user with history about the farm, information about the benefits of horse riding, provides education on horse riding disaplines from around the world and encourages the user to use a contact form to get further information on lessons, safe riding gear, boarding and livery.
 
 ## Project Goals
 
