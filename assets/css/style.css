@@ -237,6 +237,10 @@ hr {
     margin-bottom: 50px;
 }
 
+.center-about-heading a {
+    font-weight: bold;
+}
+
 #center-benefits {
     width: 80%;
     margin: 0 auto;
