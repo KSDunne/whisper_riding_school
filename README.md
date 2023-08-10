@@ -174,9 +174,13 @@ States the four main services that Whisper Riding School offer through the websi
 
 ![Education video](docs/education_video.webp)
 
-### Contact Us
+### Contact Page
 
-A form with 4 input boxes and a submit button. Two of the fields are required. The required fields are 'Full Name' and 'Phone'. Optional fields are email and a message. There is placeholder text in each field of the form.
+The hero image on the contact page shows a person kissing a horse on the nose because this is a 'feel-good' photo. The contact page has responsive panels with a contact form and an embedded map showing where our farm is located. The form has 4 input boxes, 3 radio buttons and a submit button. Two of the fields are required. The required fields are 'Full Name' and 'Phone'. Optional fields are email and a message. There is placeholder text in each field of the form to promt the user. The user can use the radio buttons to tell us if they would like to talk about lessons, gear or boarding and livery.
+
+#### Contact hero image screenshot
+
+![Contact hero image screenshot](docs/contact_hero_ss.webp)
 
 #### Contact Form
 
@@ -196,7 +200,15 @@ The Google maps feature is embedded in an iframe and this provides the site user
 
 ### Footer
 
-Which displays the business adress and social media links.
+Which displays a clickable business logo, social media links, a copyright and a link to my github because this is a portfolio website for a ficticious business. The footer is fully responsive depending on the size of the screen one is using.
+
+#### Responsive footer screenshot on mobile
+
+![Footer screenshot](docs/responsive_footer_mobile.webp)
+
+#### Responsive footer screenshot on monitor
+
+![Footer screenshot](docs/responsive_footer_monitor.webp)
 
 ## Future features
 
