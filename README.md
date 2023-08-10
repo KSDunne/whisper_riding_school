@@ -233,11 +233,19 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
 ### Index Page Wireframes
 
-![iPhone SE](docs/wireframes/index_iphonese.png)
+![Index iPhone SE](docs/wireframes/index_iphonese.png)
 
-![Tablet](docs/wireframes/index_tablet.png)
+![Index Tablet](docs/wireframes/index_tablet.png)
 
-![Monitor](docs/wireframes/index_monitor.png)
+![Index Monitor](docs/wireframes/index_monitor.png)
+
+### Around The World Page Wireframes
+
+![Around The World iPhone SE](docs/wireframes/aroundtheworld_iphonese.png)
+
+![Around The World Tablet](docs/wireframes/aroundtheworld_tablet.png)
+
+![Around The World Monitor](docs/wireframes/aroundtheworld_monitor.png)
 
 ## Technology
 
