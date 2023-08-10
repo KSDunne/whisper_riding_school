@@ -203,7 +203,7 @@ Which displays a clickable business logo, social media links, a copyright and a 
 
 ### Design Choices
 
-I was very loosely inspired by the colors, layout, services and features of the [Carrickmines Equestrian Center](https://www.carrickminesequestrian.ie/) website.This arised from my research of other horse riding school websites. I wanted to find one with intuitive layout and navigation that fit my desired content and that was also responsive.
+I was very loosely inspired by the colors, layout, services and features of the [Carrickmines Equestrian Center](https://www.carrickminesequestrian.ie/) website. This arose from my research of other horse riding school websites. I wanted to find one with intuitive layout and navigation that fit my desired content and that was also responsive.
 
 The hero image for Whisper Riding School was chosen to convey the exact main service of the business. It is both eye-catching and informational.
 
@@ -224,7 +224,7 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 - #5b9c69, a green that can be see in palette shown
 - #359672, a green that can be see in palette shown
 - #38989c, a bluish color that can be see in palette shown
-- #CC864A, an orange that can be see in palette shown
+- #CC864A, an orange inspired by the palette below
 - #fffae6, off-white
 
 ![Accessible color palette](docs/accessible_color_palette.webp)
@@ -266,3 +266,30 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
   The live link can be found here - [Whisper Riding School](https://ksdunne.github.io/whisper_riding_school/)
 
 ## Credits
+
+### Code
+
+[Latest Love Running Project August 2023](https://github.com/Code-Institute-Solutions/love-running-v3)
+
+[Depreciated Love Running Project July 2023](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/tree/main)
+
+### Inspiration from other horse riding websites
+
+[Carrickmines equestrian](https://www.carrickminesequestrian.ie/)
+
+[Top Flight Equestrian](https://topflightequestrian.ie/)
+
+[Abbeyfield Farm](https://abbeyfieldfarm.com/)
+
+[Brennanstown Riding School](https://www.brennanstownrs.ie/)
+
+
+### Inspiration for structure from other CI students
+
+[Thrive Juices](https://elainebroche-dev.github.io/ms1-thrive/)
+
+[Nurture SEO](https://mat-shepherd.github.io/ci-pp1-nurture-seo/)
+
+[Bodelschwinger Hof](https://4n4ru.github.io/CI_MS1_BodelschwingherHof/)
+
+[Sourdough Bakes](https://siobhanlgorman.github.io/Sourdough-Bakes/)
