@@ -241,6 +241,28 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
 ## Technology
 
+### Languages
+
+- HTML
+- CSS
+
+### Frameworks & Tools
+
+- Git
+- GitHub
+- CodeAnywhere - Cloud IDE
+- Balsamiq
+- Google Fonts
+- Font Awesome
+- Favicon
+- Google Maps
+- YouTube
+- Venngage's Accessible color palette generator
+- W3C Markup Validation Service
+- W3C CSS Validation Service
+- Google Lighthouse
+- Chrome DevTools
+
 ## Testing
 
 ### Code validation
