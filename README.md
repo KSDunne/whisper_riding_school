@@ -203,7 +203,7 @@ Which displays a clickable business logo, social media links, a copyright and a 
 
 ### Design Choices
 
-I was very loosely inspired by the colors, layout, services and features of the [Carrickmines Equestrian Center] (https://www.carrickminesequestrian.ie/) website.This arised from my research of other horse riding school websites. I wanted to find one with intuitive layout and navigation that fit my desired content and that was also responsive.
+I was very loosely inspired by the colors, layout, services and features of the [Carrickmines Equestrian Center](https://www.carrickminesequestrian.ie/) website.This arised from my research of other horse riding school websites. I wanted to find one with intuitive layout and navigation that fit my desired content and that was also responsive.
 
 The hero image for Whisper Riding School was chosen to convey the exact main service of the business. It is both eye-catching and informational.
 
@@ -213,18 +213,21 @@ Google Fonts were used to import Inter and Quicksand fonts into styles.css. A ge
 
 ### Color
 
-Since this business offers outdoor services such as horse riding lessons I chose earthy colours. Colors were adapted from palettes generated using [Venngage's Accessible color palette generator](https://venngage.com/tools/accessible-color-palette-generator).
+Since this business offers outdoor services such as horse riding lessons I chose earthy colours. Colors were adapted from palettes generated using [Venngage's accessible color palette generator](https://venngage.com/tools/accessible-color-palette-generator).
 
 Primary Colors - White / Green
 
-Secondary Colors - Orange / Mustard / Blue
+Secondary Colors - Orange / Mustard / Blue / Off-White
 
-- #c9ac3b, mustard
-- #88a542, a green
-- #5b9c69, a green
-- #359672, a green
-- #38989c, bluish
-- #CC864A, orange
+- #c9ac3b, a mustard color that can be see in palette shown
+- #88a542, a green that can be see in palette shown
+- #5b9c69, a green that can be see in palette shown
+- #359672, a green that can be see in palette shown
+- #38989c, a bluish color that can be see in palette shown
+- #CC864A, an orange that can be see in palette shown
+- #fffae6, off-white
+
+![Accessible color palette](docs/accessible_color_palette.webp)
 
 ## Wireframes
 
