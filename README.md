@@ -182,6 +182,10 @@ The hero image on the contact page shows a person kissing a horse on the nose be
 
 ![Contact hero image screenshot](docs/contact_hero_ss.webp)
 
+#### Responsive contact panels contain a form and map inline on a monitor, but under each other on a mobile screen
+
+![Responsive contact panels](docs/responsive_contact_panels.webp)
+
 #### Contact Form
 
 ![Form screenshot](docs/form_ss.webp)
