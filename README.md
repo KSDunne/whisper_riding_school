@@ -197,6 +197,7 @@ Which displays a clickable business logo, social media links, a copyright and a 
 - A masonry photo gallery
 - A checkbox to sign-up for a newsletter
 - Contact details in the footer e.g. farm address and phone number
+- More internal links to make navigation around the site very easy
 
 ## Design
 
@@ -332,3 +333,7 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 [Bodelschwinger Hof](https://4n4ru.github.io/CI_MS1_BodelschwingherHof/)
 
 [Sourdough Bakes](https://siobhanlgorman.github.io/Sourdough-Bakes/)
+
+## Acknowledgements
+
+Thank you to family and friends for the massive support and to the leader of our CI cohort.
