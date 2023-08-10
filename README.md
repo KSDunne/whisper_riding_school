@@ -14,11 +14,11 @@ Whisper Riding School is a fictitious business. Here is a 3-page, responsive web
 
 ## Table of Contents
 
-## Project Goals
+## Project goals
 
 The goals of this website are as follows:
 
-### Business Goals
+### Business goals
 
 - Provide the user with information about the benefits of horse riding
 - Increase awareness of the services that Whisper Riding School provides
@@ -26,7 +26,7 @@ The goals of this website are as follows:
 - Educate the customer on safe and functional riding gear
 - Create an easy path for customers to find our contact details and to find our physical site in Carlow
 
-### User Goals
+### User goals
 
 - Learn about the benefits of horse riding as a hobby
 - Once the user knows about the benefits of horse riding then would then like to find a service that offers horse riding lessons in the Leinster region of Ireland
@@ -34,16 +34,16 @@ The goals of this website are as follows:
 - Familiarise themselves with safe and functional riding gear
 - Find contact information for the farm so they can arrange a time and date for their riding lessons and easily find the physical site using a map
 
-## User Experience (UX)
+## User experience (UX)
 
-### Target Audience
+### Target audience
 
 - Adult customers that are new to horse riding that would like to explore the benefits of physical exericise paired with a connection to animals
 - Parents of children that would like to explore horse riding as a new hobby
 - Experienced riders that would like to book lessons or use the site to widen their knowledge about riding disaplines from around the world
 - Perspective lesson customers that would like to know what gear to bring with them, that is safe and functional? As this is a FAQ in horse riding
 
-### User Requirements and Expectations
+### User requirements and expectations
 
 - A visually appealing and intuitively structured website that works well and is easy to read on all screen sizes
 - An intuitive navigation system wheather using a mobile, tablet or monitor
@@ -78,7 +78,15 @@ The goals of this website are as follows:
 
 ### Logo and Navigation bar
 
-Clickable logo and a responsive navigation bar are in place. Concentrating on 'mobile first' design, the navigation bar incorporates a clickable burger icon with a drop down menu on mobile. When moving to tablet and monitor size the burger disappears and a traditional navigation bar appears with options to navigate to pages; 'Home', 'Around the World' or 'Contact Us'.
+A responsive navigation bar is in place. Concentrating on 'mobile first' design, the navigation bar incorporates a clickable burger icon with a drop down menu on mobile. When moving to tablet and monitor size the burger disappears and a traditional navigation bar appears with options to navigate to pages; 'Home', 'Around the World' or 'Contact'. There is a clickable horse logo for monitor sizes.
+
+#### Mobile navigation bar
+
+![Mobile navbar with burger menu](docs/navbar_burger.webp)
+
+#### Monitor navigation bar with clickable horse logo
+
+![Monitor navbar with clickable horse logo](docs/navbar_monitor.webp)
 
 ### Hero Image
 
