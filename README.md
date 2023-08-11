@@ -315,15 +315,17 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
 ### Manual testing
 
-#### Responsiveness of features testing
+#### Responsiveness of features tested using Chrome DevTools
 
- - All features were tested for the intended look on iPhone SE, iPad Mini and Nest Hub Max.
+ - All features were tested for the intended look and responsiveness using Chrome DevTools on iPhone SE, iPad Mini and Nest Hub Max.
 
- - All features passed responsiveness testing.
+ - All features passed responsiveness testing and looked good on all mentioned devices.
 
  - See responsive feature testing results in the screenshot below.
 
  - Most importantly the 'what we offer' box section, the video, the contact form and the map are all fully responsive.
+
+ - I have confirmed that the form works on the contact page. It requires some entries, it will only accept an email in the email box and the submit button works as intended.
 
 ![Responsive features testing](docs/responsive_testing_features.webp)
 
@@ -331,7 +333,7 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
  - All pages were tested for responsiveness on the following browsers, Chrome, Edge, Firefox, Safari and Opera.
 
- - All 3 pages passed on each for responsiveness on each browser. The pages have the intended look on each browser.
+ - All 3 pages passed for responsiveness on each browser. The pages have the intended look on each browser.
 
  - See browser compatibility testing results in the screenshot below.
 
@@ -344,6 +346,20 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 ![Logo bug](docs/bug_logo.PNG)
 
 ### Supported screens and browsers
+
+#### Screens
+
+ - iPhone SE
+ - iPad Mini
+ - Nest Hub Max
+
+#### Browsers
+
+ - Chrome
+ - Edge
+ - Firefox
+ - Safari
+ - Opera
 
 ## Deployment
 
