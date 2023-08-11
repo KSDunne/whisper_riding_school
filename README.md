@@ -317,7 +317,9 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
 #### Responsiveness of features tested using Chrome DevTools
 
- - All features were tested for the intended look and responsiveness using Chrome DevTools on iPhone SE, iPad Mini and Nest Hub Max.
+ - All features were tested for the intended look and responsiveness using Chrome DevTools on iPhone SE, 375px wide, iPad Mini, 768px wide and Nest Hub Max,1280px wide.
+
+ - I also consistently tested the look and responsiveness down to 300px thoughout development.
 
  - All features passed responsiveness testing and looked good on all mentioned devices.
 
@@ -349,9 +351,9 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
 #### Screens
 
- - iPhone SE
- - iPad Mini
- - Nest Hub Max
+ - iPhone SE, 375px wide. Also looks good down to 300px according to devtools.
+ - iPad Mini, 768px wide.
+ - Nest Hub Max, 1280px wide.
 
 #### Browsers
 
