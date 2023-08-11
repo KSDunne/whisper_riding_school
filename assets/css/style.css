@@ -440,6 +440,7 @@ hr {
 .radio-buttons {
     width: 100%;
     display: flex;
+    justify-content: center;
     flex-wrap: wrap;
 }
 
@@ -457,6 +458,7 @@ hr {
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 #contact-container div {
@@ -466,6 +468,7 @@ hr {
     flex-grow: 1;
     flex-wrap: wrap;
     flex-direction: column;
+    justify-content: center;
 }
 
 #contact-left {
