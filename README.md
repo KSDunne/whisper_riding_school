@@ -287,7 +287,7 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
 #### HTML validation
 
-- No errors were returned on the index page when using the official W3C validator [Index Page Test](https://validator.w3.org/nu/?doc=https%3A%2F%2Fksdunne.github.io%2Fwhisper_riding_school%2Findex.html)
+- No errors were returned on the index page when using the official W3C validator. See [Index Page Test](https://validator.w3.org/nu/?doc=https%3A%2F%2Fksdunne.github.io%2Fwhisper_riding_school%2Findex.html)
 
 ![Index HTML validation](docs/index_html_valid.PNG)
 
