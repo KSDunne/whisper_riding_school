@@ -287,21 +287,21 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
 #### HTML validation
 
-- No errors were returned on the index page when using the official [W3C validator](https://validator.w3.org/)
+- No errors were returned on the index page when using the official W3C validator [Index Page Test](https://validator.w3.org/nu/?doc=https%3A%2F%2Fksdunne.github.io%2Fwhisper_riding_school%2Findex.html)
 
 ![Index HTML validation](docs/index_html_valid.PNG)
 
-- No errors were returned on the around the world page when using the official [W3C validator](https://validator.w3.org/)
+- No errors were returned on the around the world page when using the official W3C validator. See [Around The World Page Test](https://validator.w3.org/nu/?doc=https%3A%2F%2Fksdunne.github.io%2Fwhisper_riding_school%2Faroundtheworld.html)
 
 ![Around the world HTML validation](docs/aroundtw_html_valid.PNG)
 
-- No errors were returned on the contact page when using the official [W3C validator](https://validator.w3.org/)
+- No errors were returned on the contact page when using the official W3C validator. See [Contact Page Test](https://validator.w3.org/nu/?doc=https%3A%2F%2Fksdunne.github.io%2Fwhisper_riding_school%2Fcontact.html)
 
 ![Contact HTML validation](docs/contact_html_valid.PNG)
 
 #### CSS validation
 
-- No errors were returned when using [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
+- No errors were returned when using Jigsaw CSS validator. See [CSS Test](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fksdunne.github.io%2Fwhisper_riding_school%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ![CSS validation](docs/css_validation.PNG)
 
