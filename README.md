@@ -309,9 +309,11 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
 ### Code
 
-[Latest Love Running Project August 2023](https://github.com/Code-Institute-Solutions/love-running-v3) - Contact form, structure for hero images and cover text
+[Latest Love Running Project August 2023](https://github.com/Code-Institute-Solutions/love-running-v3) - Signup form, structure for hero images and cover text
 
 [Depreciated Love Running Project July 2023](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/tree/main) - Overall structure of index page
+
+[Thrive Juices](https://elainebroche-dev.github.io/ms1-thrive/) - Structure of signup section and box shadow on contact form submit button
 
 ### Inspiration from other horse riding websites
 
@@ -325,8 +327,6 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
 
 ### Inspiration for structure from other CI students
-
-[Thrive Juices](https://elainebroche-dev.github.io/ms1-thrive/)
 
 [Nurture SEO](https://mat-shepherd.github.io/ci-pp1-nurture-seo/)
 
