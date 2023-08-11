@@ -352,6 +352,18 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
 [Thrive Juices](https://elainebroche-dev.github.io/ms1-thrive/) - Structure of signup section and box shadow on contact form submit button
 
+### Media
+
+- The index page hero image is from
+- The around the world page hero image is from
+- The contact page hero image is from
+- The dressage education image is from
+- The polo education image is from
+- The horseball education image is from
+- The hay background image is from
+- The logo was generated from
+- The horse walking image is from
+
 ### Inspiration from other horse riding websites
 
 [Carrickmines equestrian](https://www.carrickminesequestrian.ie/)
