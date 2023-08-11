@@ -443,6 +443,12 @@ hr {
     flex-wrap: wrap;
 }
 
+.button-div {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
 .submit-button {
     border-radius: 6px;
     padding: 15px 32px;
