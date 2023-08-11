@@ -325,9 +325,9 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
  - Most importantly the 'what we offer' box section, the video, the contact form and the map are all fully responsive.
 
-#### Browser compatibility testing
-
 ![Responsive features testing](docs/responsive_testing_features.webp)
+
+#### Browser compatibility testing
 
  - All pages were tested for responsiveness on the following browsers, Chrome, Edge, Firefox, Safari and Opera.
 
