@@ -285,9 +285,28 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
 ### Code validation
 
+![Index HTML validation](docs/index_html_valid.PNG)
+
+![Around the world HTML validation](docs/aroundtw_html_valid.PNG)
+
+![Contact HTML validation](docs/contact_html_valid.PNG)
+
+![CSS validation](docs/css_validation.PNG)
+
+### Lighthouse
+
+![Index lighthouse](docs/index_lighthouse.PNG)
+
+![Around the world lighthouse](docs/aroundtw_lighthouse.PNG)
+
+![Contact lighthouse](docs/contact_lighthouse.PNG)
+
+
 ### Test cases / user story based
 
 ### Fixed bugs
+
+![Logo bug](docs/bug_logo.PNG)
 
 ### Supported screens and browsers
 
