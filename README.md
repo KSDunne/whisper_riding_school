@@ -10,7 +10,7 @@ Link to live website: [Whisper Riding School](https://ksdunne.github.io/whisper_
 
 ## Purpose of the project
 
-Whisper Riding School is a fictitious business. Here is a 3-page, responsive website, built using only HTML and CSS for that business. This website is aimed at people that are interested in trying horse riding as a hobby, in the Leinster area of Ireland. The owner of 'Whisper Riding School' seeks to provide value to these people via horse riding education and in turn convert these interested people into customers of 'Whisper Riding School'. This website provides the user with history about the farm, information about the benefits of horse riding, provides education on horse riding disaplines from around the world and encourages the user to use a contact form to get further information on lessons, safe riding gear, boarding and livery.
+Whisper Riding School is a fictitious business. Here is a 3-page, responsive website, built using only HTML and CSS for that business. This website is aimed at people that are interested in trying horse riding as a hobby, in the Leinster area of Ireland. The owner of 'Whisper Riding School' seeks to provide value to these people via horse riding education and in turn convert these interested people into customers of 'Whisper Riding School'. This website provides the user with history about the farm, information about the benefits of horse riding, provides education on horse riding disciplines from around the world and encourages the user to use a contact form to get further information on lessons, safe riding gear, boarding and livery.
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ Whisper Riding School is a fictitious business. Here is a 3-page, responsive web
 - Adult customers that are new to horse riding that would like to explore the benefits of physical exericise paired with a connection to animals
 - Parents of children that would like to explore horse riding as a new hobby
 - Experienced riders that would like to book lessons
-- People that would like to use the educational aspect of the site to widen their knowledge about riding disaplines from around the world
+- People that would like to use the educational aspect of the site to widen their knowledge about riding disciplines from around the world
 - Perspective lesson customers that would like to know what gear to bring with them, that is safe and functional? As this is a FAQ in horse riding
 - People that would like to know the location of the farm so they can plan their trip to see us
 
@@ -31,7 +31,7 @@ Whisper Riding School is a fictitious business. Here is a 3-page, responsive web
 - An intuitive navigation system wheather using a mobile, tablet or monitor
 - Ability to quickly find relevant information on the business and its services
 - Easy ways to contact the business and find our physical site using a map
-- An ability to learn about horse riding disaplines from around the world
+- An ability to learn about horse riding disciplines from around the world
 - Access to a contact form
 - An accessible website for all users
 - A website that loads quickly on all devices and connections
@@ -46,7 +46,7 @@ Whisper Riding School is a fictitious business. Here is a 3-page, responsive web
 - As a site visitor, I want to find out ways to contact or connect with the business, e.g. a contact form and social media links
 - As a site visitor, I want to contact Whisper Riding School to book a lesson
 - As a site visitor, I want to be able to learn about safe riding gear that I should bring with me to my lesson
-- As a site visitor, I want to broden my knowlegde of horse riding disaplines from around the world
+- As a site visitor, I want to broden my knowlegde of horse riding disciplines from around the world
 
 ## Features
 
@@ -130,7 +130,7 @@ States the four main services that Whisper Riding School offer through the websi
 
 ### Around the World
 
-'Around the World' is the second page of this website and it offers the user 4 educational snippets. The user can learn about riding disaplines from around the world Photos of dressage, polo, horse ball and western riding can be seen here with short explainations of each. There is a video near the bottom of this page that shows a western tack up routine. There is a 'call to action' to view the video in the text and the video provides interaction for the site user.
+'Around the World' is the second page of this website and it offers the user 4 educational snippets. The user can learn about riding disciplines from around the world Photos of dressage, polo, horse ball and western riding can be seen here with short explainations of each. There is a video near the bottom of this page that shows a western tack up routine. There is a 'call to action' to view the video in the text and the video provides interaction for the site user.
 
 #### Around the world hero image on mobile
 
