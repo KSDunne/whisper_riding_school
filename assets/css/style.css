@@ -443,12 +443,6 @@ hr {
     flex-wrap: wrap;
 }
 
-.button-div {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-}
-
 .submit-button {
     border-radius: 6px;
     padding: 15px 32px;
@@ -466,7 +460,7 @@ hr {
 }
 
 #contact-container div {
-    padding: 5px;
+    padding: 6px;
     text-align: center;
     display: flex;
     flex-grow: 1;
