@@ -285,19 +285,37 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
 ### Code validation
 
+#### HTML validation
+
+- No errors were returned on the index page when using the official [W3C validator](https://validator.w3.org/)
+
 ![Index HTML validation](docs/index_html_valid.PNG)
+
+- No errors were returned on the around the world page when using the official [W3C validator](https://validator.w3.org/)
 
 ![Around the world HTML validation](docs/aroundtw_html_valid.PNG)
 
+- No errors were returned on the contact page when using the official [W3C validator](https://validator.w3.org/)
+
 ![Contact HTML validation](docs/contact_html_valid.PNG)
+
+#### CSS validation
+
+- No errors were returned when using [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
 
 ![CSS validation](docs/css_validation.PNG)
 
-### Lighthouse
+### Accessibility and Lighthouse
+
+- A score of 100 was reached for accessibility, best practices and SEO for the index page
 
 ![Index lighthouse](docs/index_lighthouse.PNG)
 
+- A score of 100 was reached for accessibility, best practices and SEO for the around the world page
+
 ![Around the world lighthouse](docs/aroundtw_lighthouse.PNG)
+
+- A score of 100 was reached for accessibility, best practices and SEO for the contact page
 
 ![Contact lighthouse](docs/contact_lighthouse.PNG)
 
