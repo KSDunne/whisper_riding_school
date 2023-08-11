@@ -64,7 +64,7 @@ A responsive navigation bar is in place. Concentrating on 'mobile first' design,
 
 ### Hero Image
 
-The hero image on the index page was chosen to convey the exact purpose of Whisper Riding School. It is a colourful image of a girl jumping a fence on horseback in a sand arena. This is a typical activity you would find at a riding school in Ireland.
+The hero image on the index page was chosen to convey the exact purpose of Whisper Riding School. It is a colourful image of a girl jumping a fence on horseback in a sand arena. This is a typical activity you would find at a riding school in Ireland. Therefore, the user can see what typically happens at our farm.
 
 #### Mobile hero image on home page
 
@@ -88,7 +88,7 @@ The responsive cover text over the hero image states the name of the business an
 
 ### About
 
-Gives a romantic history of the farm.
+Gives a romantic history of the farm to add to the 'feel-good' emotion of the website.
 
 #### About screenshot
 
@@ -118,7 +118,7 @@ The fixed background image is of a pony called cindy. This is a nice visual that
 
 ### What We Offer?
 
-States the four main services that Whisper Riding School offer through the website and the business. These are; 1. 'lessons', 2. 'education' of diverse horse riding disaplines, 3. 'advice on gear' and 4. 'boarding and livery'.
+States the four main services that Whisper Riding School offer through the website and the business. These are; 1. 'lessons', 2. 'education' of diverse horse riding disciplines, 3. 'advice on gear' and 4. 'boarding and livery'.
 
 #### Responsive what we offer panels on mobile
 
@@ -130,7 +130,7 @@ States the four main services that Whisper Riding School offer through the websi
 
 ### Around the World
 
-'Around the World' is the second page of this website and it offers the user 4 educational snippets. The user can learn about riding disciplines from around the world Photos of dressage, polo, horse ball and western riding can be seen here with short explainations of each. There is a video near the bottom of this page that shows a western tack up routine. There is a 'call to action' to view the video in the text and the video provides interaction for the site user.
+'Around the World' is the second page of this website and it offers the user 4 educational snippets. The user can learn about riding disciplines from around the world. Photos of dressage, polo, horse ball and western riding can be seen here with short explainations of each. There is a video near the bottom of this page that shows a western tack up routine. There is a 'call to action' to view the video in the text and the video provides interaction for the site user.
 
 #### Around the world hero image on mobile
 
@@ -150,7 +150,7 @@ States the four main services that Whisper Riding School offer through the websi
 
 ### Contact Page
 
-The hero image on the contact page shows a person kissing a horse on the nose because this is a 'feel-good' photo. The contact page has responsive panels with a contact form and an embedded map showing where our farm is located. The form has 4 input boxes, 3 radio buttons and a submit button. Two of the fields are required. The required fields are 'Full Name' and 'Phone'. Optional fields are email and a message. There is placeholder text in each field of the form to promt the user. The user can use the radio buttons to tell us if they would like to talk about lessons, gear or boarding and livery.
+The hero image on the contact page shows a person kissing a horse on the nose because this is a 'feel-good' photo. The contact page has responsive panels with a contact form and an embedded map showing where our farm is located. The form has 4 input boxes, 3 radio buttons and a submit button. Two of the fields are required. The required fields are 'Full Name' and 'Phone'. Optional fields are email and a message. There is placeholder text in each field of the form to promt the user. The user can use the radio buttons to tell us if they would like to talk about lessons, gear or livery.
 
 #### Contact hero image screenshot
 
@@ -174,7 +174,7 @@ The Google maps feature is embedded in an iframe and this provides the site user
 
 ### Footer
 
-Which displays a clickable business logo, social media links, a copyright and a link to my github because this is a portfolio website for a ficticious business. The footer is fully responsive depending on the size of the screen one is using.
+Which displays a clickable business logo, social media links, a copyright and a link to my github, because this is a portfolio website for a ficticious business. The footer is fully responsive depending on the size of the screen one is using.
 
 #### Responsive footer screenshot on mobile
 
