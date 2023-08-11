@@ -309,9 +309,9 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
 ### Code
 
-[Latest Love Running Project August 2023](https://github.com/Code-Institute-Solutions/love-running-v3)
+[Latest Love Running Project August 2023](https://github.com/Code-Institute-Solutions/love-running-v3) - Contact form, structure for hero images and cover text
 
-[Depreciated Love Running Project July 2023](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/tree/main)
+[Depreciated Love Running Project July 2023](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/tree/main) - Overall structure of index page
 
 ### Inspiration from other horse riding websites
 

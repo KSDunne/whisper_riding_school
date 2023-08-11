@@ -389,6 +389,13 @@ hr {
 
 #farm-address {
     padding-top: 0;
+    line-height: 160%;
+}
+
+#contact-list>li {
+    margin-left: 25px;
+    padding: 6px;
+    line-height: 100%;
 }
 
 #signup {
@@ -404,7 +411,7 @@ hr {
 #signup-form {
     color: #fffae6;
     background-color: rgba(53, 150, 114, 0.8);
-    padding: 30px;
+    padding: 15px;
 }
 
 #signup-form>h2 {
@@ -433,12 +440,10 @@ hr {
 .radio-buttons {
     width: 100%;
     display: flex;
-    justify-content: space-between;
     flex-wrap: wrap;
 }
 
 .submit-button {
-    margin-top: 20px;
     border-radius: 6px;
     padding: 15px 32px;
     font-size: 100%;
@@ -455,8 +460,9 @@ hr {
 }
 
 #contact-container div {
-    padding: 15px;
+    padding: 5px;
     text-align: center;
+    display: flex;
     flex-grow: 1;
     flex-wrap: wrap;
     flex-direction: column;
