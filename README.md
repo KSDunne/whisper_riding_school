@@ -315,8 +315,31 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
 ![Contact lighthouse](docs/contact_lighthouse.PNG)
 
+### Manual testing
 
-### Test cases / user story based
+#### Responsiveness of features testing
+
+All features were tested for the intended look on iPhone SE, iPad Mini and Nest Hub Max.
+
+All features passed responsiveness testing.
+
+See responsive feature testing results in the screenshot below.
+
+Most importantly the 'what we offer' box section, the video, the contact form and the map are all fully responsive.
+
+#### Browser compatibility testing
+
+![Responsive features testing](docs/responsive_testing_features.PNG)
+
+All pages were tested for responsiveness on the following browsers, Chrome, Edge, Firefox, Safari and Opera.
+
+All 3 pages passed on each for responsiveness on each browser. The pages have the intended look on each browser.
+
+See browser compatibility testing results in the screenshot below.
+
+![Browser compatibility testing](docs/browser_compatibility.PNG)
+
+### User story testing
 
 ### Fixed bugs
 
