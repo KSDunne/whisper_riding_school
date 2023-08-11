@@ -164,10 +164,6 @@ The hero image on the contact page shows a person kissing a horse on the nose be
 
 ![Form screenshot](docs/form_ss.webp)
 
-#### Form radio buttons and submit button
-
-![Form radio and submit buttons](docs/form_radio_submit_ss.webp)
-
 ### Map
 
 The Google maps feature is embedded in an iframe and this provides the site user the ability to plan their trip to the farm. It is responsive and is different sizes depending on the screen size the user has.
