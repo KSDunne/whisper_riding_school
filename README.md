@@ -387,6 +387,8 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
 [Thrive Juices](https://elainebroche-dev.github.io/ms1-thrive/) - Structure of signup section and box shadow on contact form submit button
 
+[W3Schools](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_link_mailto) - 'Mail to' link
+
 ### Media
 
 - The index page hero image is from

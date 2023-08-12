@@ -237,6 +237,13 @@ hr {
     margin-bottom: 50px;
 }
 
+.contact-page-heading {
+    width: 100%;
+    line-height: 30px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
 .center-about-heading a {
     font-weight: bold;
 }
