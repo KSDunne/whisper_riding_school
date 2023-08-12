@@ -392,14 +392,14 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 ### Media
 
 - The index page hero image is from [pexels](https://www.pexels.com/photo/an-equestrian-in-action-10932276/)
-- The around the world page hero image is from [pixabay(https://pixabay.com/photos/horse-horses-polo-polo-sport-3011882/)
+- The around the world page hero image is from [pixabay](https://pixabay.com/photos/horse-horses-polo-polo-sport-3011882/)
 - The contact page hero image is from [pexels](https://www.pexels.com/photo/a-woman-kissing-a-horse-at-a-stable-7882319/)
-- The dressage education image is from
-- The polo education image is from
-- The horseball education image is from
+- The dressage education image is from [unsplash](https://unsplash.com/photos/qohebUU9eJQ)
+- The polo education image is from [unsplash](https://unsplash.com/photos/m1uT_XHsTQM)
 - The hay background image is from [pixabay](https://pixabay.com/photos/hay-hay-bale-landscape-nature-4348733/)
-- The logo was generated from [hubspot brand kit generator](https://www.hubspot.com/brand-kit-generator)
 - The horse walking image is from [pixabay](https://pixabay.com/photos/horse-nature-equine-field-green-3489428/)
+- The horseball education image is from [shutterstock](https://www.shutterstock.com/image-photo/equestrian-sport-horses-horseball-1144757549)
+- The horse logo in the header and footer was generated from [hubspot brand kit generator](https://www.hubspot.com/brand-kit-generator)
 
 ### Inspiration from other horse riding websites
 
