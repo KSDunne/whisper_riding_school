@@ -341,9 +341,12 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
  - All 3 pages passed for responsiveness on each browser. The pages have the intended look on each browser.
 
- - See browser compatibility testing results in the screenshot below.
+ - See browser compatibility testing results in the table below.
 
-![Browser compatibility testing](docs/browser_compatibility.webp)
+| browser compatibility   | chrome | edge | firefox | safari | opera |
+| ----------------------- | ------ | ---- | ------- | ------ | ----- |
+| intended appearance     | pass   | pass | pass    | pass   | pass  |
+| intended responsiveness | pass   | pass | pass    | pass   | pass  |
 
 #### Testing all links on the site
 
