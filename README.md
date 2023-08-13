@@ -313,6 +313,8 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
 ![Contact lighthouse](docs/contact_lighthouse.PNG)
 
+- It is my opinion, that the 'performance' parameter in lighthouse could have been improved by using high fetch priority on the largest image. I will keep this in mind going forward with future projects.
+
 ### Manual testing
 
 #### Responsiveness of features tested using Chrome DevTools
