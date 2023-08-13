@@ -2,7 +2,7 @@
 /*Importing Google Fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Quicksand:wght@300&display=swap');
 
-/*Wild card selector which overrides browser default styles*/
+/*wild card selector which overrides browser default styles*/
 * {
     margin: 0;
     padding: 0;
@@ -10,7 +10,7 @@
     text-decoration: none;
 }
 
-/*General styles*/
+/*general styles*/
 body {
     min-height: 100vh;
     display: flex;
@@ -345,7 +345,7 @@ hr {
     background-attachment: scroll;
 }
 
-/* Around the world page*/
+/* around the world page*/
 #dressage-image {
     height: 400px;
     width: 80%;
