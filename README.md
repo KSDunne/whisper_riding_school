@@ -343,6 +343,18 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
 ### User story testing
 
+| User Story                                                                                                                      | Testing                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| As a visitor, I want to understand purpose of this website and to easily navigate through it                               | The hero image, cover text, tagline and easy to use navigation bar and burger meet this need                                            |
+| As a site visitor, I want to be able to see the name of the business and their main offering as soon as I land on the home page | The covertext and tagline meet this need                                                                                                |
+| As a visitor, I want to learn a bit about the history of the farm                                                          | There is a romantic history paragraph in the 'about our farm' section which meets this need                                             |
+| As a visitor, I want to see the benefits of horse riding, so I can tell whether I would like to do it or not               | There is a benefits section with a bullet point list on the index page                                                                  |
+| As a visitor, I want to be able to see the location of the farm so that I can plan my visit e.g. a map                     | There is a map on the contact page that meets this need                                                                                 |
+| As a visitor, I want to find out ways to contact or connect with the business, e.g. a contact form and social media links  | There are social media icons on each page, there is a mail to link, a phone number and a contact form on the contact page               |
+| As a visitor, I want to contact Whisper Riding School to book a lesson                                                     | There is a mail to link, a phone number and a contact form on the contact page                                                          |
+| As a visitor, I want to be able to learn about safe riding gear that I should bring with me to my lesson                   | The user is directed to the contact page to tick the 'gear' radio button on the contact form and we will call them back to discuss gear |
+| As a visitor, I want to broden my knowlegde of horse riding disciplines from around the world                              | There is a whole page dedicated to education called 'around the world', with 4 different horse riding disciplines on it                 |
+
 ### Fixed bugs
 
 ![Logo bug](docs/bug_logo.PNG)
