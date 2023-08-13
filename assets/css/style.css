@@ -1,5 +1,7 @@
+/*Importing Google Fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Quicksand:wght@300&display=swap');
 
+/*Wild card selector which overrides browser default styles*/
 * {
     margin: 0;
     padding: 0;
@@ -7,6 +9,7 @@
     text-decoration: none;
 }
 
+/*General styles*/
 body {
     min-height: 100vh;
     display: flex;
@@ -21,7 +24,6 @@ p {
 }
 
 /* headings and logo */
-
 header {
     background-color: #ffffff;
     padding: 0 1rem;
@@ -97,7 +99,6 @@ h3 {
 }
 
 /* navbar with dropdown toggle*/
-
 nav {
     position: absolute;
     background-color: #ffffff;
@@ -182,8 +183,7 @@ main {
     }
 }
 
-/* home page information about whisper farm*/
-
+/* home page with information about whisper farm*/
 #cover-text {
     background-color: rgba(53, 150, 114, 0.8);
     font-size: 130%;
@@ -242,6 +242,10 @@ hr {
     line-height: 26px;
     clear: both;
     margin-bottom: 50px;
+}
+
+.contact-page-heading a {
+    font-weight: bold;
 }
 
 .center-about-heading a {
@@ -393,7 +397,6 @@ hr {
 
 /*contact page*/
 /*contact form*/
-
 #farm-address {
     padding-top: 0;
     line-height: 160%;
@@ -483,7 +486,6 @@ hr {
 }
 
 /*map*/
-
 #contact-right {
     width: 35rem;
     scroll-behavior: unset;
@@ -503,7 +505,6 @@ hr {
 }
 
 /* footer */
-
 .container-footer-divs {
     color: #000000;
     display: flex;
