@@ -36,7 +36,7 @@ Whisper Riding School is a fictitious business. Here is a 3-page, responsive web
 
 ## User stories
 
-- As a site visitor, I want to understand purpose of this website and to easily navigate through it
+- As a site visitor, I want to understand the purpose of this website and to easily navigate through it
 - As a site visitor, I want to be able to see the name of the business and their main offering as soon as I land on the home page
 - As a site visitor, I want to learn a bit about the history of the farm
 - As a site visitor, I want to see the benefits of horse riding, so I can tell whether I would like to do it or not
@@ -345,7 +345,7 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
 | User Story                                                                                                                      | Testing                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| As a visitor, I want to understand purpose of this website and to easily navigate through it                               | The hero image, cover text, tagline and easy to use navigation bar and burger meet this need                                            |
+| As a visitor, I want to understand the purpose of this website and to easily navigate through it                               | The hero image, cover text, tagline and easy to use navigation bar and burger meet this need                                            |
 | As a site visitor, I want to be able to see the name of the business and their main offering as soon as I land on the home page | The covertext and tagline meet this need                                                                                                |
 | As a visitor, I want to learn a bit about the history of the farm                                                          | There is a romantic history paragraph in the 'about our farm' section which meets this need                                             |
 | As a visitor, I want to see the benefits of horse riding, so I can tell whether I would like to do it or not               | There is a benefits section with a bullet point list on the index page                                                                  |
