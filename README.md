@@ -343,6 +343,33 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
 ![Browser compatibility testing](docs/browser_compatibility.webp)
 
+#### Testing all links on the site
+
+|    | Clickable link                 | What does it do?                       | Does it work as expected? |
+| -- | ------------------------------ | -------------------------------------- | ------------------------- |
+| 1  | horse logo in header           | always returns to home page            | as expected               |
+| 2  | horse logo in footer           | always returns to home page            | as expected               |
+| 3  | clickable title 'whisper rs'   | always returns to home page            | as expected               |
+| 4  | nav bar                        | drop down on mobile and bar on >768px  | as expected               |
+| 5  | benefits physical health       | external link, opens on a new tab      | as expected               |
+| 6  | benefits mental health         | external link, opens on a new tab      | as expected               |
+| 7  | benefits personal development  | external link, opens on a new tab      | as expected               |
+| 8  | benefits character traits      | external link, opens on a new tab      | as expected               |
+| 9  | home page link to contact page | links to contact page                  | as expected               |
+| 10 | home page link to atw page     | links to around the world page         | as expected               |
+| 11 | social media links             | external links to social media pages   | as expected               |
+| 12 | github link for portfolio      | external link, opens on a new tab      | as expected               |
+| 13 | more about dressage            | external link, opens on a new tab      | as expected               |
+| 14 | more about polo                | external link, opens on a new tab      | as expected               |
+| 15 | more about horseball           | external link, opens on a new tab      | as expected               |
+| 16 | more about western riding      | external link, opens on a new tab      | as expected               |
+| 17 | a western tack up routine      | internal link to further down the page | as expected               |
+| 18 | video plays when clicked       | video works                            | as expected               |
+| 19 | contact us                     | internal link to further down the page | as expected               |
+| 20 | mail to link                   | opens personal email                   | as expected               |
+| 21 | map                            | internal link to further down the page | as expected               |
+| 22 | view larger map                | opens google maps                      | as expected               |
+
 ### User story testing
 
 | User Story                                                                                                                      | Testing                                                                                                                                 |
