@@ -313,7 +313,9 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
 ![Contact lighthouse](docs/contact_lighthouse.PNG)
 
-- It is my opinion, that the 'performance' parameter in lighthouse could have been improved by using high fetch priority on the largest image. I will keep this in mind going forward with future projects.
+- After reading the source below, it is my opinion that, the 'performance' parameter in lighthouse could have been improved by using high fetch priority on the largest image. I will keep this in mind going forward with future projects.
+
+[Optimize Largest Contentful Paint](https://web.dev/optimize-lcp/)
 
 ### Manual testing
 
