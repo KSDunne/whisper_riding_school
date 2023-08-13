@@ -364,7 +364,7 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 ![Logo bug](docs/bug_logo.PNG)
 
 - The body selector contained a property of min-height and the unit used for this was, viewport height or vh. There was a space between the value and the unit and this showed up as an error when the code was run through the W3C HTML validator. The error was easily fixed by removing the space between the value and the unit.
--
+
 ![Viewport height bug](docs/bug_vh.PNG)
 
 ### Supported screens and browsers
