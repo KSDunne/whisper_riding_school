@@ -454,6 +454,7 @@ hr {
     flex-wrap: wrap;
 }
 
+/*credit for box shadow code and idea: https://elainebroche-dev.github.io/ms1-thrive/contact.html */
 .submit-button {
     border-radius: 6px;
     padding: 15px 32px;
