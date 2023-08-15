@@ -10,7 +10,7 @@ Link to live website: [Whisper Riding School](https://ksdunne.github.io/whisper_
 
 ## Purpose of the project
 
-Whisper Riding School is a fictitious business. Here is a 3-page, responsive website, built using only HTML and CSS for that business. This website is aimed at people that are interested in trying horse riding as a hobby, in the Leinster area of Ireland. The owner of 'Whisper Riding School' seeks to provide value to these people via horse riding education and in turn convert these interested people into customers of 'Whisper Riding School'. This website provides the user with history about the farm, information about the benefits of horse riding, provides education on horse riding disciplines from around the world and encourages the user to use a contact form to get further information on lessons, safe riding gear, boarding and livery.
+Whisper Riding School is a fictitious business. Here is a 3-page, responsive website, built using only HTML and CSS for that business. This website is aimed at people that are interested in trying horse riding as a hobby, in the Leinster area of Ireland. The owner of 'Whisper Riding School' seeks to provide value to these people via horse riding education and in turn convert these interested people into customers of 'Whisper Riding School'. This website provides the user with a history about the farm, information about the benefits of horse riding, provides education on horse riding disciplines from around the world and encourages the user to use a contact form to get further information on lessons, safe riding gear, boarding and livery.
 
 ## User experience (UX)
 
@@ -62,7 +62,7 @@ A responsive navigation bar is in place. Concentrating on 'mobile first' design,
 
 ### Hero Image
 
-The hero image on the index page was chosen to convey the exact purpose of Whisper Riding School. It is a colourful image of a girl jumping a fence on horseback in a sand arena. This is a typical activity you would find at a riding school in Ireland. Therefore, the user can see what typically happens at our farm.
+The hero image on the index page was chosen to convey the exact purpose of Whisper Riding School. It is a colorful image of a girl jumping a fence on horseback in a sand arena. This is a typical activity you would find at a riding school in Ireland. Therefore, the user can see what typically happens at our farm.
 
 #### Mobile hero image on home page
 
@@ -136,13 +136,19 @@ States the four main services that Whisper Riding School offer through the websi
 
 #### Education text
 
+Gives the user a snippet of information on each discipline and a link to the wikipedia page about each, so that they can learn more if they would like.
+
 ![Education text](docs/education_text.webp)
 
 #### Education image
 
+The education images are visuals carefully chosen to represent each discipline.
+
 ![Education image](docs/education_image.webp)
 
 #### Education video
+
+The video is of a western tack-up routine. This is a different routine to the one used in English riding, therefore it is educational for someone that has never seen this alternative way of getting a horse ready for riding before.
 
 ![Education video](docs/education_video.webp)
 
@@ -159,6 +165,8 @@ The hero image on the contact page shows a person kissing a horse on the nose be
 ![Responsive contact panels](docs/responsive_contact_panels.webp)
 
 #### Contact Form
+
+Offers the user the ability to contact Whisper Riding School and flag whether they want advice on lessons, gear or livery.
 
 ![Form screenshot](docs/form_ss.webp)
 
@@ -207,7 +215,7 @@ Google Fonts were used to import Inter and Quicksand fonts into styles.css. A ge
 
 ### Color
 
-Since this business offers outdoor services such as horse riding lessons I chose earthy colours. Colors were adapted from palettes generated using [Venngage's accessible color palette generator](https://venngage.com/tools/accessible-color-palette-generator).
+Since this business offers outdoor services such as horse riding lessons I chose earthy colors. I also kept accessibility in mind when choosing colors and I used a color blind friendly palette for inspiration. Colors were adapted from palettes generated using [Venngage's accessible color palette generator](https://venngage.com/tools/accessible-color-palette-generator).
 
 Primary Colors - White / Green
 
