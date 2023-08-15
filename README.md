@@ -421,6 +421,7 @@ Text generated was heavily edited by developer.
 | 20 | mail to link                   | opens personal email                   | as expected               |
 | 21 | map                            | internal link to further down the page | as expected               |
 | 22 | view larger map                | opens google maps                      | as expected               |
+| 23 | form submit button 'let's ride | gives feedback about data submitted    | as expected               |
 
 ### User story testing
 
