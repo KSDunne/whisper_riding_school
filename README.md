@@ -333,7 +333,22 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
  - I have confirmed that the form works on the contact page. It requires some entries, it will only accept an email in the email box and the submit button works as intended.
 
-![Responsive features testing](docs/responsive_testing_features.webp)
+| responsiveness              | index | around the world | contact |
+| --------------------------- | ----- | ---------------- | ------- |
+| nav bar                     | pass  | pass             | pass    |
+| hero image                  | pass  | pass             | pass    |
+| covertext                   | pass  | pass             | pass    |
+| tagline                     | pass  | na               | na      |
+| about                       | pass  | na               | na      |
+| benefits                    | pass  | na               | na      |
+| fixed background image      | pass  | na               | na      |
+| what we offer section       | pass  | na               | na      |
+| around the world paragraphs | na    | pass             | na      |
+| video                       | na    | pass             | na      |
+| contact panel               | na    | na               | pass    |
+| contact form                | na    | na               | pass    |
+| map                         | na    | na               | pass    |
+| footer                      | pass  | pass             | pass    |
 
 #### Browser compatibility testing
 
@@ -475,5 +490,3 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 ## Acknowledgements
 
 Thank you to family and friends for the massive support and to the leader of our CI cohort :sparkles:
-
-testing a commit from vscode 150823, 1508pm
