@@ -108,7 +108,9 @@ The fixed background image is of a pony called cindy. This is a nice visual that
 
 ![Skewball image on mobile](docs/skewball_image_mobile.webp)
 
-#### A fixed background image on tablet and monitor. See below the following 2 screen shots of how it looks when you scroll.
+#### A fixed background image on tablet and monitor. 
+
+ See below the following 2 screen shots of how it looks when you scroll.
 
 ![Fixed background image on tablet and monitor 1](docs/skewball_fixed_1.webp)
 
@@ -233,6 +235,8 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
 ## Wireframes
 
+The overall structure was kept from inception of wireframes to final result of the website, however there are small discrepancies where the project evolved e.g. address can be seen in the footer of the wireframes, but in the final project this went into the contact page. This was because it visually looked better on the contact page and it is easy for the user to find on the contact page.
+
 ### Index Page Wireframes
 
 ![Index iPhone SE](docs/wireframes/index_iphonese.png)
@@ -280,8 +284,14 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 - [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 - [Google Maps](https://www.google.com/maps)
 - [YouTube](https://www.youtube.com/)
-- [ChatGPT](https://chat.openai.com/) Note: AI was used for text content inspiration, not code. Text generated was heavily edited by developer.
-- [Perplexity AI](https://www.perplexity.ai/) Note: AI was used for text content inspiration, not code. Text generated was heavily edited by developer.
+- [ChatGPT](https://chat.openai.com/) Note: AI was used for text content inspiration, not code.
+- [Perplexity AI](https://www.perplexity.ai/) Note: AI was used for text content inspiration, not code.
+
+The queries used for the educational sections of the website on chat gpt and perplexity.ai were as follows:
+
+"Write 4 lines about dressage / horse polo / horse ball / western riding in an educational tone"
+
+Text generated was heavily edited by developer.
 
 ## Testing
 
@@ -329,17 +339,17 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
 #### Responsiveness of features tested using Chrome DevTools
 
- - All features were tested for the intended look and responsiveness using Chrome DevTools on iPhone SE, 375px wide, iPad Mini, 768px wide and Nest Hub Max,1280px wide.
+ - All features were tested for the intended look and responsiveness using Chrome DevTools on iPhone SE, 375px wide, iPad Mini, 768px wide and Nest Hub Max,1280px wide
 
- - I also consistently tested the look and responsiveness down to 300px throughout development.
+ - I also consistently tested the look and responsiveness down to 300px throughout development
 
- - All features passed responsiveness testing and looked good on all mentioned devices.
+ - All features passed responsiveness testing and looked good on all mentioned devices
 
- - See responsive feature testing results in the screenshot below.
+ - See responsive feature testing results in the screenshot below
 
- - Most importantly the 'what we offer' box section, the video, the contact form and the map are all fully responsive.
+ - Most importantly the 'what we offer' box section, the video, the contact form and the map are all fully responsive
 
- - I have confirmed that the form works on the contact page. It requires some entries, it will only accept an email in the email box and the submit button works as intended.
+ - I have confirmed that the form works on the contact page. It requires some entries, it will only accept an email in the email box and the submit button works as intended
 
 | responsiveness              | index | around the world | contact |
 | --------------------------- | ----- | ---------------- | ------- |
@@ -360,11 +370,11 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
 #### Browser compatibility testing
 
- - All pages were tested for responsiveness on the following browsers, Chrome, Edge, Firefox, Safari and Opera.
+ - All pages were tested for responsiveness on the following browsers, Chrome, Edge, Firefox, Safari and Opera
 
- - All 3 pages passed for responsiveness on each browser. The pages have the intended look on each browser.
+ - All 3 pages passed for responsiveness on each browser. The pages have the intended look on each browser
 
- - See browser compatibility testing results in the table below.
+ - See browser compatibility testing results in the table below
 
 | browser compatibility   | chrome | edge | firefox | safari | opera |
 | ----------------------- | ------ | ---- | ------- | ------ | ----- |
@@ -426,9 +436,9 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
 #### Screens
 
- - iPhone SE, 375px wide. Also looks good down to 300px according to devtools.
- - iPad Mini, 768px wide.
- - Nest Hub Max, 1280px wide.
+ - iPhone SE, 375px wide. Also looks good down to 300px according to devtools
+ - iPad Mini, 768px wide
+ - Nest Hub Max, 1280px wide
 
 #### Browsers
 
