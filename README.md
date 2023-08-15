@@ -466,11 +466,11 @@ Text generated was heavily edited by developer.
 
 ### Code
 
-[Latest Love Running Project August 2023](https://github.com/Code-Institute-Solutions/love-running-v3) - Signup form, structure for hero images and cover text
+[Latest Love Running Project August 2023](https://github.com/Code-Institute-Solutions/love-running-v3) - Head code, responsive boxes on index page, code for socials in footer, code for sign up form on contact page and inspiration to use font awesome icons throughout the website
 
-[Depreciated Love Running Project July 2023](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/tree/main) - Overall structure of index page
+[Depreciated Love Running Project July 2023](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/tree/main) - Overall structure of index page, structure for hero image and tagline, animating zoom effect on the hero image when loading page
 
-[Thrive Juices](https://elainebroche-dev.github.io/ms1-thrive/) - Structure of signup section and box shadow on contact form submit button
+[Thrive Juices](https://elainebroche-dev.github.io/ms1-thrive/) - Structure of responsive contact panel, form and map and box shadow on contact form submit button
 
 [W3Schools](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_link_mailto) - 'Mail to' link
 
