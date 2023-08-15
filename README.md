@@ -194,10 +194,10 @@ Which displays a clickable business logo, social media links, a copyright and a 
 
 ## Future features
 
-- Live weather forcast. This is a feature on some similar websites that I saw when doing research for this project. I saw a div with a widget that contains live data.
-- A page dedicated to gear. This is another popular page on horse riding websites.
+- Live weather forcast. This is a feature on some similar websites that I saw when doing research for this project. I saw a div with a widget that contains live data
+- A page dedicated to gear. This is another popular page on horse riding websites
 - A whisper riding school themed 404 page
-- A whisper riding school themed confirmation page, once the form has been submitted. The code institute template one is in place at the moment.
+- A whisper riding school themed confirmation page, once the form has been submitted. The code institute template one is in place at the moment
 - A masonry photo gallery
 - A checkbox to sign-up for a newsletter
 - Contact details in the footer e.g. farm address and phone number
@@ -235,7 +235,7 @@ Secondary Colors - Orange / Mustard / Blue / Off-White
 
 ## Wireframes
 
-The overall structure was kept from inception of wireframes to final result of the website, however there are small discrepancies where the project evolved e.g. address can be seen in the footer of the wireframes, but in the final project this went into the contact page. This was because it visually looked better on the contact page and it is easy for the user to find on the contact page.
+The overall structure was kept from inception of wireframes to final result of the website, however there are small discrepancies where the project evolved e.g. address can be seen in the footer of the wireframes, but in the final project this went into the contact page. This was because it visually looked better on the contact page and it is easy for the user to find on the contact page. Also, where you see 'contact us' in the nav bar of the wireframes, this ended up being simply 'contact' on the final version of the website, because it looked better and added a better flow to the website.
 
 ### Index Page Wireframes
 
