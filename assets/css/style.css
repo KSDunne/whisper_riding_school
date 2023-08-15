@@ -309,6 +309,7 @@ hr {
 }
 
 #offer {
+    /* Image taken from https://pixabay.com/photos/hay-hay-bale-landscape-nature-4348733/ */
     background: url(../images/hay_dark.webp) no-repeat center center/cover;
     display: flex;
     flex-wrap: wrap;
