@@ -108,7 +108,7 @@ The fixed background image is of a pony called cindy. This is a nice visual that
 
 ![Skewball image on mobile](docs/skewball_image_mobile.webp)
 
-#### A fixed background image on tablet and monitor. 
+#### A fixed background image on tablet and monitor
 
  See below the following 2 screen shots of how it looks when you scroll.
 
