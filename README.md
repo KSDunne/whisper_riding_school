@@ -28,6 +28,12 @@ Whisper Riding School is a fictitious business. Here is a 3-page, responsive web
 
 ## User experience (UX)
 
+### Key project goals
+
+-	Increase awareness of our business, Whisper Riding School, through a feel-good and accessible website with history about our farm and attractive images
+-	Increase awareness of the services we offer, such as on-site lessons, education on disciplines from around the world, advice on gear if you contact us, boarding and livery
+-	Build a website that encourages and directs the site user to contact us through the use of a form or to connect with us on our social media platforms, which will in turn convert the site user to a customer
+
 ### Target audience
 
 - Adult customers that are new to horse riding that would like to explore the benefits of physical exericise paired with a connection to animals
