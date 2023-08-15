@@ -432,6 +432,10 @@ Text generated was heavily edited by developer.
 
 ![Viewport height bug](docs/bug_vh.PNG)
 
+### Unfixed bugs
+
+No unfixed bugs
+
 ### Supported screens and browsers
 
 #### Screens
