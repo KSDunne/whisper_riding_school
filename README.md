@@ -432,6 +432,9 @@ Text generated was heavily edited by developer.
 | 3 | nav bar contact >768px          | hover with mouse       | underlines and shows the correct destination for a click     |
 | 4 | drop down nav menu on mobile    | when burger is clicked | drops down and underlines active page                        |
 | 5 | video                           | press play button      | only plays when the user presses play, demonstrating good UX |
+| 6 | zoom of hero image index page   | on page load / refresh | works as intended, checked on personal iphone and dev tools  |
+| 7 | zoom of hero image around tw    | on page load / refresh | works as intended, checked on personal iphone and dev tools  |
+| 8 | zoom of hero image contact page | on page load / refresh | works as intended, checked on personal iphone and dev tools  |
 
 ### User story testing
 
