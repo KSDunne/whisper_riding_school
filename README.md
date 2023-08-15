@@ -12,6 +12,20 @@ Link to live website: [Whisper Riding School](https://ksdunne.github.io/whisper_
 
 Whisper Riding School is a fictitious business. Here is a 3-page, responsive website, built using only HTML and CSS for that business. This website is aimed at people that are interested in trying horse riding as a hobby, in the Leinster area of Ireland. The owner of 'Whisper Riding School' seeks to provide value to these people via horse riding education and in turn convert these interested people into customers of 'Whisper Riding School'. This website provides the user with a history about the farm, information about the benefits of horse riding, provides education on horse riding disciplines from around the world and encourages the user to use a contact form to get further information on lessons, safe riding gear, boarding and livery.
 
+## Table of contents
+
+  * [User experience (UX)](#user-experience-ux)
+  * [User stories](#user-stories)
+  * [Features](#features)
+  * [Future features](#future-features)
+  * [Design](#design)
+  * [Wireframes](#wireframes)
+  * [Technology](#technology)
+  * [Testing](#testing)
+  * [Deployment](#deployment)
+  * [Credits](#credits)
+  * [Acknowledgements](#acknowledgements)
+
 ## User experience (UX)
 
 ### Target audience
@@ -166,7 +180,7 @@ The hero image on the contact page shows a person kissing a horse on the nose be
 
 ![Responsive contact panels](docs/responsive_contact_panels.webp)
 
-#### Contact Form
+### Contact Form
 
 Offers the user the ability to contact Whisper Riding School and flag whether they want advice on lessons, gear or livery.
 
