@@ -423,6 +423,16 @@ Text generated was heavily edited by developer.
 | 22 | view larger map                | opens google maps                      | as expected               |
 | 23 | form submit button 'let's ride'| gives feedback about data submitted    | as expected               |
 
+### Feature testing table
+
+|   | feature                         | action                 | effect                                                       |
+| - | ------------------------------- | ---------------------- | ------------------------------------------------------------ |
+| 1 | nav bar home >768px             | hover with mouse       | underlines and shows the correct destination for a click     |
+| 2 | nav bar around the world >768px | hover with mouse       | underlines and shows the correct destination for a click     |
+| 3 | nav bar contact >768px          | hover with mouse       | underlines and shows the correct destination for a click     |
+| 4 | drop down nav menu on mobile    | when burger is clicked | drops down and underlines active page                        |
+| 5 | video                           | press play button      | only plays when the user presses play, demonstrating good UX |
+
 ### User story testing
 
 | User Story                                                                                                                      | Testing                                                                                                                                 |
